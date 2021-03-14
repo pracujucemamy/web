@@ -1,6 +1,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    padding-top: 75px;
 }
 
 .header {
@@ -10,7 +11,7 @@ body {
     float: left;
 }
 
-.header .banner .title {
+.header .title {
     font-family: 'DM Serif Display', serif;
     font-style: normal;
     font-weight: normal;
@@ -45,7 +46,7 @@ body {
 .top_menu_item {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
-    color: #000166;
+    color: #000166 !important;
 }
 
 .active {
@@ -58,6 +59,8 @@ body {
 
 .blog_summary {
     margin: auto auto auto 0;
+    padding-top: 40px;
+    padding-bottom: 20px;
 }
 
 .blog_summary .title {
@@ -80,18 +83,25 @@ body {
     color: #3D3EFF;
 }
 
+.blog_summary_image {
+    transform:translateY(25px);
+}
+
+
 .blog_panel_even {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .blog_panel_odd {
-    background-color: #F3F3FF
+    background-color: #F3F3FF;
 }
+
+
 
 .footer {
     font-family: 'Poppins', sans-serif;
     background: #303083;
-    height: 290px;
+    min-height: 290px;
     color: white;
 }
 
