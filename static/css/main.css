@@ -47,6 +47,8 @@ body {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     color: #000166 !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
 }
 
 .active {
