@@ -1,0 +1,3 @@
+baseURL = "http://example.org/"
+languageCode = "sk-sk"
+title = "My New Hugo Site"

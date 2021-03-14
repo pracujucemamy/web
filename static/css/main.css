@@ -1,0 +1,120 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.header {
+}
+
+.header .banner .logo {
+    float: left;
+}
+
+.header .banner .title {
+    font-family: 'DM Serif Display', serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #000166;
+    font-size: 24px;
+    float: left;
+    line-height: 40px;
+}
+
+.header a#navbarWhatWeDo.nav-link.dropdown-toggle:active,
+.header a#navbarWhatWeDo.nav-link.dropdown-toggle:focus {
+    outline: 0;
+}
+
+.header .dropdown-menu {
+    background-color: #000166;
+}
+
+.header .dropdown-item {
+    color: #FFFFFF;
+}
+
+.header .dropdown-menu a:hover {
+    background-color: #FFCD10;
+}
+
+.job_offer {
+    background: #FFCD10;
+    border-radius: 60px;
+}
+
+.top_menu_item {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    color: #000166;
+}
+
+.active {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: #FFCD10;
+    text-decoration-thickness: 5px;
+    text-decoration-skip: none;
+}
+
+.blog_summary {
+    margin: auto auto auto 0;
+}
+
+.blog_summary .title {
+    font-family: 'DM Serif Display', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 34px;
+    color: #000166;
+
+    margin-bottom: 10pt;
+}
+
+.blog_summary .read_more {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    color: #3D3EFF;
+}
+
+.blog_panel_even {
+    background-color: #FFFFFF
+}
+
+.blog_panel_odd {
+    background-color: #F3F3FF
+}
+
+.footer {
+    font-family: 'Poppins', sans-serif;
+    background: #303083;
+    height: 290px;
+    color: white;
+}
+
+.footer_logo {
+    font-family: 'DM Serif Display', serif;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: normal;
+    background: #303083;
+    color: white;
+}
+
+.footer .contact {
+    padding-top: 60px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.copyright {
+    border-top:  1px solid #6767A4;
+    background: #303083;
+    height: 66px;
+    color: white;
+}
