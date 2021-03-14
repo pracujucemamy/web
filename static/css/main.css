@@ -35,7 +35,8 @@ body {
 }
 
 .header .dropdown-menu a:hover {
-    background-color: #FFCD10;
+    color: #FFCD10;
+    background-color: #000166;
 }
 
 .job_offer {
