@@ -27,7 +27,8 @@
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Poppins:wght@300&display=swap"
           rel="stylesheet">
 
-    <link href="{{.Site.BaseURL}}/css/main.css" rel="stylesheet">
+    {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
+    <link href="{{ $style.Permalink  }}" rel="stylesheet">
 
     <title>Document</title>
 </head>

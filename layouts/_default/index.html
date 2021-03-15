@@ -12,14 +12,15 @@
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Poppins:wght@300&display=swap"
           rel="stylesheet">
 
-    <link href="{{.Site.BaseURL}}/css/main.css" rel="stylesheet">
+    {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
+    <link href="{{ $style.Permalink  }}" rel="stylesheet">
 
     <title>Document</title>
 </head>
 <body>
 
 
-<nav class="navbar navbar-expand-sm navbar-light fixed-top shadow" style="background-color: #ffffff;">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top shadow" style="background-color: #ffffff;">
     <div class="container header">
         <a class="navbar-brand logo title" href="{{.Site.BaseURL}}">
             <svg width="56" height="40" viewBox="0 0 56 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -80,9 +81,6 @@
         </div>
 
         <div class="row align-items-center dark">
-            <div class="col-md-5">
-                <img src="img_why.png" class="img-fluid blog_summary_image">
-            </div>
             <div class="col-md-1"></div>
             <div class="col-md-6">
                 <h1>Prečo Pracujúce mamy?</h1>
@@ -94,23 +92,27 @@
                 </p>
             </div>
             <div class="col-md-1"></div>
+            <div class="col-md-5 order-md-first">
+                <img src="img_why.png" class="img-fluid blog_summary_image">
+            </div>
+
         </div>
 
         <div class="row align-items-center">
             <div class="col-md-1"></div>
             <div class="col-md-5">
                 <div class="row align-items-center items mb-2">
-                    <div class="col-1"><img src="images/leaf.png"></div>
+                    <div class="col-2"><img src="images/leaf.png"></div>
                     <div class="col">Pomáhame vytvárať pracoviská, kde kvalitní zamestnanci dosahujú pracovné výsledky v súlade s ich rodinným životom.
                     </div>
                 </div>
                 <div class="row align-items-center mb-2">
-                    <div class="col-1"><img src="images/leaf.png"></div>
+                    <div class="col-2"><img src="images/leaf.png"></div>
                     <div class="col">Spájame talentované ženy po kariérnej pauze a zamestnávateľov, ktorí si uvedomujú dôležitosť rovnováhy medzi prácou a rodinou.
                     </div>
                 </div>
                 <div class="row align-items-center">
-                    <div class="col-1"><img src="images/leaf.png"></div>
+                    <div class="col-2"><img src="images/leaf.png"></div>
                     <div class="col">Úspešné príklady zo Slovenska aj zahraničia ukazujú, že sa to dá.
                     </div>
                 </div>
