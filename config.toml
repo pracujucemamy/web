@@ -1,3 +1,13 @@
 baseURL = "https://apps.igormihalik.com/pracujucemamy.sk/"
+defaultContentLanguage = "sk"
 languageCode = "sk-sk"
-title = "My New Hugo Site"
+title = "Pracujuce Mamy"
+
+[languages]
+  [languages.sk]
+    title = "Pracujuce Mamy"
+    weight = 1
+  [languages.en]
+    title = "Working Moms"
+    weight = 2
+
