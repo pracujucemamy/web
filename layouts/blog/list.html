@@ -1,18 +1,3 @@
-{{ define "main" }}
-<h1>Zoznam blogov</h1>
-
-{{ range .Pages }}
-{{ .RelPermalink }}
-<p><a href="{{ .RelPermalink }}">{{.Title}}</a></p>
-{{ end }}
-
-{{ end }}
-
-{{ define "footer" }}
-
-{{ end }}
-
-
 <!doctype html>
 <html lang="en">
 <head>
