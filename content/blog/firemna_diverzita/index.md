@@ -1,5 +1,5 @@
 ---
-title: "Prečo je firemná diverzita viac než móda – ako vyrovnané zloženie mužov a žien ovplyvňuje úspech firmy"
+title: "Prečo je firemná diverzita viac než móda - ako vyrovnané zloženie mužov a žien ovplyvňuje úspech firmy"
 
 date: 2021-03-15T07:00:00Z
 

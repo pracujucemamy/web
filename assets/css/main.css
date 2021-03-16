@@ -1,24 +1,25 @@
+html {
+    font-size: 100%;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding-top: 75px;
 }
 
-.header {
-}
 
-.header .banner .logo {
-    float: left;
+.header {
+    font-style: normal;
+    font-weight: normal;
+    color: #000166;
+    font-family: 'Poppins', sans-serif;
 }
 
 .header .title {
     font-family: 'DM Serif Display', serif;
-    font-style: normal;
-    font-weight: normal;
+    font-size: 1.5rem;
     color: #000166;
-    font-size: 24px;
-    float: left;
-    line-height: 40px;
 }
 
 .header a#navbarWhatWeDo.nav-link.dropdown-toggle:active,
@@ -39,7 +40,7 @@ body {
     background-color: #000166;
 }
 
-.job_offer {
+.header .job_offer {
     background: #FFCD10;
     border-radius: 60px;
 }
@@ -60,44 +61,6 @@ body {
     text-decoration-skip: none;
 }
 
-.blog_summary {
-    margin: auto auto auto 0;
-    padding-top: 40px;
-    padding-bottom: 20px;
-    color: #000166;
-}
-
-.blog_summary .title {
-    font-family: 'DM Serif Display', serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 32px;
-    margin-bottom: 10pt;
-    line-height: 40px;
-}
-
-.blog_summary .read_more {
-    font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 18px;
-    line-height: 28px;
-    color: #3D3EFF;
-}
-
-.blog_summary_image {
-    transform:translateY(25px);
-}
-
-
-.blog_panel_even {
-    background-color: #FFFFFF;
-}
-
-.blog_panel_odd {
-    background-color: #F3F3FF;
-}
-
 
 .about {
     font-family: DM Serif Display, serif;
@@ -113,22 +76,22 @@ body {
     margin-top: 40px;
     font-style: normal;
     font-weight: normal;
-    font-size: 44px;
+    font-size: 3rem;
 }
 
 .about p {
     font-family: Poppins;
     font-style: normal;
     font-weight: 300;
-    font-size: 18px;
+    font-size: 1rem;
 }
 
 .about .col {
     font-family: Poppins;
     font-style: normal;
     font-weight: 300;
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 1rem;
+    line-height: 2rem;
 }
 
 
@@ -137,6 +100,46 @@ body {
     margin-right: 5px;
     max-width: 40px;
 }
+
+/* BLOG LIST */
+.blog_summary {
+    margin: auto auto auto 0;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    color: #000166;
+}
+
+.blog_summary h1 {
+    font-family: 'DM Serif Display', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2rem;
+    margin-bottom: 10pt;
+    line-height: 2.2rem;
+}
+
+.blog_summary .read_more {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1rem;
+    line-height: 2rem;
+    color: #3D3EFF;
+}
+
+.image_offset {
+    transform:translateY(2rem);
+}
+
+
+.blog_panel_even {
+    background-color: #FFFFFF;
+}
+
+.blog_panel_odd {
+    background-color: #F3F3FF;
+}
+
 
 /* BLOG style*/
 .blog {
@@ -149,8 +152,8 @@ body {
     font-family: Poppins, sans-serif;
     font-style: normal;
     font-weight: 300;
-    font-size: 16px;
-    line-height: 16px;
+    font-size: 1rem;
+    line-height: 1rem;
     color: #000166;
     margin-bottom: 30px;
 }
@@ -158,7 +161,7 @@ body {
 .blog h1 {
     font-style: normal;
     font-weight: normal;
-    font-size: 48px;
+    font-size: 3rem;
     color: #000166;
     margin-bottom: 50px;
 }
@@ -166,8 +169,7 @@ body {
 .blog h2 {
     font-style: normal;
     font-weight: normal;
-    font-size: 32px;
-    line-height: 44px;
+    font-size: 2rem;
     color: #000166;
     margin-top: 30px;
     margin-bottom: 20px;
@@ -176,8 +178,7 @@ body {
 .blog h3 {
     font-style: normal;
     font-weight: normal;
-    font-size: 24px;
-    line-height: 44px;
+    font-size: 1.5rem;
     color: #000166;
     margin-top: 30px;
     margin-bottom: 20px;
@@ -188,8 +189,8 @@ body {
     font-family: Poppins;
     font-style: normal;
     font-weight: 300;
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 1rem;
+    line-height: 1.5rem;
     color: #000166;
 
 }
@@ -204,7 +205,7 @@ body {
 .footer_logo {
     font-family: 'DM Serif Display', serif;
     font-style: normal;
-    font-size: 20px;
+    font-size: 1rem;
     font-weight: normal;
     background: #303083;
     color: white;
@@ -214,8 +215,8 @@ body {
     padding-top: 60px;
     font-style: normal;
     font-weight: bold;
-    font-size: 18px;
-    line-height: 28px;
+    font-size: 1rem;
+    line-height: 1.5rem;
 }
 
 .copyright {

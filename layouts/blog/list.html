@@ -35,7 +35,7 @@
 <body>
 
 
-<nav class="navbar navbar-expand-sm navbar-light fixed-top shadow" style="background-color: #ffffff;">
+<nav class="navbar navbar-expand-lg fixed-top shadow" style="background-color: rgba(255,255,255,0.95);">
     <div class="container header">
         <a class="navbar-brand logo title" href="{{.Site.BaseURL}}">
             <svg width="56" height="40" viewBox="0 0 56 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -81,28 +81,28 @@
     <div class="row align-items-center blog_panel_even">
         <div class="col-md-1"></div>
         <div class="col-md-5 blog_summary">
-            <div class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</div>
-            <div class="title">{{ .Title }}</div>
-            <div class="summary">{{ .Summary }}</div>
+            <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
+            <h1>{{ .Title }}</h1>
+            <p class="summary">{{ .Summary }}</p>
             <a href="{{ .RelPermalink  }}" class="read_more">Čítaj viac ➔</a>
         </div>
         <div class="col-md-1"></div>
         <div class="col-md-5">
-            <img src="{{ .Permalink }}/image.png" class="img-fluid blog_summary_image">
+            <img src="{{ .Permalink }}/image.png" class="img-fluid image_offset">
         </div>
     </div>
     {{ else }}
     <div class="row align-items-center blog_panel_odd">
         <div class="col-md-1"></div>
         <div class="col-md-5 blog_summary">
-            <div class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</div>
-            <div class="title">{{ .Title }}</div>
-            <div class="summary">{{ .Summary }}</div>
+            <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
+            <h1>{{ .Title }}</h1>
+            <p class="summary">{{ .Summary }}</p>
             <a href="{{ .RelPermalink  }}" class="read_more">Čítaj viac ➔</a>
         </div>
         <div class="col-md-1"></div>
         <div class="col-md-5 order-md-first">
-            <img src="{{ .Permalink }}/image.png" class="img-fluid blog_summary_image">
+            <img src="{{ .Permalink }}/image.png" class="img-fluid image_offset">
         </div>
     </div>
     {{ end }}
