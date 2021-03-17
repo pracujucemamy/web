@@ -2,6 +2,10 @@ baseURL = "https://apps.igormihalik.com/pracujucemamy.sk/"
 defaultContentLanguage = "sk"
 languageCode = "sk-sk"
 title = "Pracujuce Mamy"
+canonifyURLs = true
+
+[permalinks]
+blog = "/blog/:year/:month/:title/"
 
 [menu]
 [[menu.main]]
