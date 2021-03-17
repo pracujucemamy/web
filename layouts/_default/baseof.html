@@ -52,6 +52,7 @@
                             role="button"
                             data-bs-toggle="dropdown"
                             aria-expanded="false"
+                            target="{{.Params.Target}}"
                             href="{{.URL}}">{{.Title}}</a>
                     <ul class="dropdown-menu" aria-labelledby="navbarWhatWeDo">
                         {{ range .Children }}
@@ -61,7 +62,7 @@
                 </li>
                 {{ else }}
                 <li class="nav-item">
-                    <a class="nav-link top_menu_item {{$active}} {{ .Params.Style }}" href="{{.URL}}">{{ .Title }}</a>
+                    <a class="nav-link top_menu_item {{$active}} {{ .Params.Style }}" href="{{.URL}}" target="{{.Params.Target}}">{{ .Title }}</a>
                 </li>
                 {{ end }}
                 {{ end }}
@@ -69,6 +70,7 @@
         </div>
     </div>
 </nav>
+
 
 <div class="container">
     <!--MAIN CONTENT -->

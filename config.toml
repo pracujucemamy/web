@@ -3,6 +3,14 @@ defaultContentLanguage = "sk"
 languageCode = "sk-sk"
 title = "Pracujuce Mamy"
 
+[menu]
+[[menu.main]]
+  url="https://pracujucemamy.darujme.sk/podporte-pracujuce-mamy-a927b/"
+  title = "Podporte nás"
+  weight = 5
+[menu.main.params]
+  target = '_blank'
+
 [languages]
   [languages.sk]
     title = "Pracujuce Mamy"
