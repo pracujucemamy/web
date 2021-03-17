@@ -1,8 +1,6 @@
 {{ define "main" }}
-<!--MAIN CONTENT -->
     {{ range $i,$p := .Pages }}
-        {{if (modBool $i 2)}}
-        <div class="row align-items-center blog_panel_even">
+        <div class="row align-items-center {{if not (modBool $i 2)}}blog_panel_odd{{end}}">
             <div class="col-md-1"></div>
             <div class="col-md-5 blog_summary">
                 <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
@@ -11,25 +9,9 @@
                 <a href="{{ .RelPermalink  }}" class="read_more">Čítaj viac ➔</a>
             </div>
             <div class="col-md-1"></div>
-            <div class="col-md-5">
+            <div class="col-md-5 {{if not (modBool $i 2)}}order-md-first{{end}}">
                 <img src="{{ .Permalink }}/image.png" class="img-fluid image_offset">
             </div>
         </div>
-        {{ else }}
-        <div class="row align-items-center blog_panel_odd">
-            <div class="col-md-1"></div>
-            <div class="col-md-5 blog_summary">
-                <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
-                <h1>{{ .Title }}</h1>
-                <p class="summary">{{ .Summary }}</p>
-                <a href="{{ .RelPermalink  }}" class="read_more">Čítaj viac ➔</a>
-            </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-5 order-md-first">
-                <img src="{{ .Permalink }}/image.png" class="img-fluid image_offset">
-            </div>
-        </div>
-        {{ end }}
     {{ end }}
-
 {{end}}
