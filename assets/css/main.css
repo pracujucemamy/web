@@ -108,6 +108,11 @@ p, li {
     color: #FFFFFF
 }
 
+.about .dark h1,
+.about .dark p {
+    color: #FFFFFF
+}
+
 .about h1 {
     margin-top: 40px;
     font-style: normal;
@@ -224,4 +229,12 @@ p, li {
     background: #303083;
     height: 66px;
     color: white;
+}
+
+.copyright p {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+    color: white;
+    opacity: 0.7;
 }
