@@ -38,11 +38,11 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarToggler">
             <ul class="navbar-nav ms-auto">
-            {{ $currentPage := . }}
-            {{ range .Site.Menus.main }}
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
                 {{ $active := ""}}
                 {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
-                    {{ $active = "active"}}
+                {{ $active = "active"}}
                 {{end}}
                 {{ if .HasChildren }}
                 <li class="nav-item dropdown">
@@ -54,23 +54,26 @@
                             aria-expanded="false"
                             href="{{.URL}}">{{.Title}}</a>
                     <ul class="dropdown-menu" aria-labelledby="navbarWhatWeDo">
-                {{ range .Children }}<li><a class="dropdown-item" href="{{.URL}}">{{.Title}}</a></li>{{ end }}
+                        {{ range .Children }}
+                        <li><a class="dropdown-item" href="{{.URL}}">{{.Title}}</a></li>
+                        {{ end }}
                     </ul>
                 </li>
                 {{ else }}
                 <li class="nav-item">
-                    <a class="nav-link top_menu_item {{$active}} {{ .Params.Style }}" href="{{.URL}}">{{ .Title }}</a></li>
+                    <a class="nav-link top_menu_item {{$active}} {{ .Params.Style }}" href="{{.URL}}">{{ .Title }}</a>
+                </li>
                 {{ end }}
-            {{ end }}
+                {{ end }}
             </ul>
         </div>
     </div>
 </nav>
 
 <div class="container">
-<!--MAIN CONTENT -->
-{{ block "main" . }}
-{{ end }}
+    <!--MAIN CONTENT -->
+    {{ block "main" . }}
+    {{ end }}
 </div>
 
 <!--FOOTER-->
@@ -137,17 +140,17 @@
                         <a href="#">Ochrana osobných údajov</a>
                     </div>
                     <div class="col-md-3">
-                        <p class="contact">Pre klasikov:<br/>
+                        <p class="contact">Pre klasikov:</p>
+                        <span>
                             Pracujúce mamy<br/>
                             (občianske združenie)<br/>
                             Františka Veselovského 2<br/>
-                            917 01 Trnava</p>
-
+                            917 01 Trnava
+                        </span>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
     <div class="row pt-3 footer_logo">
         <div class="col-12">
@@ -162,7 +165,7 @@
         </div>
     </div>
     <div class="row copyright justify-content-center">
-        <div class="col-auto align-self-center">© 2021 Pracujúce mamy. All Rights Reserved</div>
+        <div class="col-auto align-self-center"><p>© 2021 Pracujúce mamy. All Rights Reserved</p></div>
     </div>
 </div>
 
