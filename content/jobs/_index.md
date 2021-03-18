@@ -5,7 +5,7 @@ menu:
   main:
     weight: 5
     params:
-      style: job_offer
+      style: link_button
 ---
 
 ## TODO 

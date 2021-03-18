@@ -76,7 +76,8 @@ p, li {
     background-color: #000166;
 }
 
-.header .job_offer {
+.link_button {
+    padding: 0.5rem 1rem;
     background: #FFCD10;
     border-radius: 60px;
 }
@@ -120,7 +121,8 @@ p, li {
     font-size: 3rem;
 }
 
-.about p {
+.about p,
+.about a {
     font-family: Poppins;
     font-style: normal;
     font-weight: 300;
@@ -159,8 +161,12 @@ p, li {
     color: #3D3EFF;
 }
 
-.image_offset {
+.image_offset_down {
     transform:translateY(2rem);
+}
+
+.image_offset_up {
+    transform:translateY(-2rem);
 }
 
 

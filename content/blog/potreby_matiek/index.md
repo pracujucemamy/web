@@ -1,8 +1,12 @@
----
-title: "3 najčastejšie potreby matiek na pracovisku a prečo by nás to malo zaujímať"
-date: 2021-03-14T14:15:59-06:00 
-author: "Patrícia Hirschnerová"
----
++++
+
+title = "3 najčastejšie potreby matiek na pracovisku a prečo by nás to malo zaujímať"
+
+date = 2021-03-14T14:15:59-06:00
+
+author = "Patrícia Hirschnerová"
+
++++
 
 73% opýtaných Sloveniek by sa do práce chcelo postupne zapojiť skôr, než po troch rokoch. 23% z nich by tak chcelo
 spraviť do jedného roka od narodenia dieťaťa. Ženy aj ich zamestnávatelia si však kladú rovnakú otázku – ako by to mohlo
@@ -22,7 +26,7 @@ matky-zamestnankyne stávajú pre zamestnávateľov stále relevantnejšou skupi
 samotný fakt samozrejme nestavia ženy do pozície nadradenosti voči zamestnávateľom, umožňuje však diskusiu o riešeniach,
 ktoré by boli výhrou pre obe strany. Prechod z industriálnej do informačnej spoločnosti tejto diskusii len napomáha.
 
-![img.png](potreby_graf.png)
+{{< figure src="potreby_graf.png" class="text-center">}}
 
 ## Porady v čase, keď je štandardná starostlivosť o deti dostupná
 
