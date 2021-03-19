@@ -140,45 +140,13 @@ p, li {
   }
 }
 
-.about {
-  font-family: DM Serif Display, serif;
-  color: #000166;
-
-  h1 {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 3rem;
-  }
-
-  p, a {
-    font-family: Poppins;
-    font-style: normal;
-    font-weight: 300;
-    font-size: 1rem;
-  }
-}
-
 .blog_summary {
-  margin: auto auto auto 0;
-  padding-top: 40px;
-  padding-bottom: 20px;
-  color: #000166;
-
   h1 {
-    font-family: 'DM Serif Display', serif;
-    font-style: normal;
-    font-weight: normal;
     font-size: 2rem;
-    margin-bottom: 10pt;
-    line-height: 2.2rem;
   }
 
   .read_more {
     font-family: 'Poppins', sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 1rem;
-    line-height: 2rem;
     color: #3D3EFF;
   }
 }

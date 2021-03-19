@@ -1,21 +1,39 @@
 {{ define "main" }}
 {{ range $i,$p := .Pages }}
-<div class="container-fluid  {{if not (modBool $i 2)}}blog_panel_odd{{end}}">
-    <div class="container-xxl pt-5">
-        <div class="row align-items-center">
-            <div class="col-md-1"></div>
-            <div class="col-md-5 blog_summary">
+{{if (modBool $i 2)}}
+<div class="container-fluid pt-5 blog_panel_odd">
+    <div class="container-xxl blog_summary">
+        <div class="row justify-content-end">
+            <div class="col-md-6 align-self-center">
                 <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
                 <h1>{{ .Title }}</h1>
-                <p class="summary">{{ .Summary }}</p>
+                {{ .Summary }}
                 <a href="{{ .RelPermalink  }}" class="read_more">Čítaj viac ➔</a>
+                <p></p>
             </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-5 {{if not (modBool $i 2)}}order-md-first{{end}}">
+            <div class="col-md-5">
+                <img src="{{ .Permalink }}/image.png" class="img-fluid image_offset_down">
+            </div>
+        </div>
+    </div>
+</div>
+{{ else }}
+<div class="container-fluid pt-5">
+    <div class="container-xxl blog_summary">
+        <div class="row justify-content-start">
+            <div class="col-md-6 align-self-center order-md-last">
+                <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
+                <h1>{{ .Title }}</h1>
+                {{ .Summary }}
+                <a href="{{ .RelPermalink  }}" class="read_more">Čítaj viac ➔</a>
+                <p></p>
+            </div>
+            <div class="col-md-5 order-md-first">
                 <img src="{{ .Permalink }}/image.png" class="img-fluid image_offset_down">
             </div>
         </div>
     </div>
 </div>
 {{ end }}
-{{end}}
+{{ end }}
+{{ end }}
