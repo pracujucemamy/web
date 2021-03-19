@@ -22,12 +22,9 @@ html {
     transform: translate(-2.5rem, 2.5rem);
   }
 
-  .image_offset_down {
-    transform: translateY(2.5rem);
-  }
 
   .image_offset_up {
-    transform: translateY(-2.5rem);
+    transform: translate(2.5rem, -2.5rem);
   }
 }
 
@@ -40,7 +37,7 @@ html {
 
 
 body {
-  font-family: DM Serif Display, serif;
+  font-family: Poppins, sans-serif;
   margin: 0;
   padding-top: 75px;
 }
