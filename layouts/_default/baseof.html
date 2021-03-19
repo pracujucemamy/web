@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
 
-    {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | minify | fingerprint }}
+    {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
     <link href="{{ $style.Permalink  }}" rel="stylesheet">
 
 \    <title>{{.Title}}</title>
@@ -179,8 +179,8 @@
             </p>
         </div>
     </div>
-    <div class="row copyright justify-content-center copyright">
-        <div class="col-auto align-self-center"><p>© 2021 Pracujúce mamy. All Rights Reserved</p></div>
+    <div class="row copyright">
+        <div class="col"><p class="text-center">© 2021 Pracujúce mamy. All Rights Reserved</p></div>
     </div>
 </div>
 
