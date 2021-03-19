@@ -3,7 +3,7 @@ title: "Prečo je firemná diverzita viac než móda"
 
 date: 2021-03-15T07:00:00Z
 
-author: "ZUZANA POKRIVCAKOVA"
+author: "Zuzana Pokrivčáková"
 ---
 
 Bežne diskutovanou problematikou a jednou z oblastí firemnej diverzity je rovnomerné zastúpenie mužov a žien vo všetkých
