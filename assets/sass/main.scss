@@ -14,6 +14,14 @@ html {
     font-size: 18px;
   }
 
+  .image_offset_down_right {
+    transform: translate(2.5rem, 2.5rem);
+  }
+
+  .image_offset_down_left {
+    transform: translate(-2.5rem, 2.5rem);
+  }
+
   .image_offset_down {
     transform: translateY(2.5rem);
   }
