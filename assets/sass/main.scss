@@ -1,3 +1,8 @@
+/*!
+ * Copyright
+ 2021 Pracujuce Mamy
+ */
+
 @import "./bootstrap/scss/bootstrap";
 
 html {
@@ -10,11 +15,11 @@ html {
   }
 
   .image_offset_down {
-    transform:translateY(2rem);
+    transform: translateY(2.5rem);
   }
 
   .image_offset_up {
-    transform:translateY(-2rem);
+    transform: translateY(-2.5rem);
   }
 }
 
@@ -71,37 +76,37 @@ p, li {
 }
 
 
-
 .header {
   font-style: normal;
   font-weight: normal;
   color: #000166;
   font-family: 'Poppins', sans-serif;
+
+  .title {
+    font-family: 'DM Serif Display', serif;
+    font-size: 1.5rem;
+    color: #000166;
+  }
+
+  a#navbarWhatWeDo.nav-link.dropdown-toggle:active,
+  a#navbarWhatWeDo.nav-link.dropdown-toggle:focus {
+    outline: 0;
+  }
+
+  .dropdown-menu {
+    background-color: #000166;
+  }
+
+  .dropdown-item {
+    color: #FFFFFF;
+  }
+
+  .dropdown-menu a:hover {
+    color: #FFCD10;
+    background-color: #000166;
+  }
 }
 
-.header .title {
-  font-family: 'DM Serif Display', serif;
-  font-size: 1.5rem;
-  color: #000166;
-}
-
-.header a#navbarWhatWeDo.nav-link.dropdown-toggle:active,
-.header a#navbarWhatWeDo.nav-link.dropdown-toggle:focus {
-  outline: 0;
-}
-
-.header .dropdown-menu {
-  background-color: #000166;
-}
-
-.header .dropdown-item {
-  color: #FFFFFF;
-}
-
-.header .dropdown-menu a:hover {
-  color: #FFCD10;
-  background-color: #000166;
-}
 
 .link_button {
   padding: 0.5rem 1rem;
@@ -133,58 +138,59 @@ p, li {
 
 .dark {
   background: #3D3EFF;
-  color: #FFFFFF
+  color: #FFFFFF;
+
+  .about h1,
+  .about p {
+    color: #FFFFFF
+  }
 }
 
-.dark .about h1,
-.dark .about p {
-  color: #FFFFFF
+.about {
+  h1 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3rem;
+  }
+
+  p,
+  a {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+  }
+
+  .image-parent {
+    margin-top: 20px;
+    margin-right: 5px;
+    max-width: 40px;
+  }
 }
 
-.about h1 {
-  font-style: normal;
-  font-weight: normal;
-  font-size: 3rem;
-}
-
-.about p,
-.about a {
-  font-family: Poppins;
-  font-style: normal;
-  font-weight: 300;
-  font-size: 1rem;
-}
-
-.about .image-parent {
-  margin-top: 20px;
-  margin-right: 5px;
-  max-width: 40px;
-}
-
-/* BLOG LIST */
 .blog_summary {
   margin: auto auto auto 0;
   padding-top: 40px;
   padding-bottom: 20px;
   color: #000166;
-}
 
-.blog_summary h1 {
-  font-family: 'DM Serif Display', serif;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 2rem;
-  margin-bottom: 10pt;
-  line-height: 2.2rem;
-}
+  h1 {
+    font-family: 'DM Serif Display', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 2rem;
+    margin-bottom: 10pt;
+    line-height: 2.2rem;
+  }
 
-.blog_summary .read_more {
-  font-family: 'Poppins', sans-serif;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 1rem;
-  line-height: 2rem;
-  color: #3D3EFF;
+  .read_more {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1rem;
+    line-height: 2rem;
+    color: #3D3EFF;
+  }
 }
 
 
@@ -198,16 +204,15 @@ p, li {
   margin-bottom: 5rem;
   color: #000166;
   font-family: Poppins, sans-serif;
-  /*font-family: DM Serif Display, serif;*/
-}
 
-.blog .date {
-  font-style: normal;
-  font-weight: 300;
-  font-size: 1rem;
-  line-height: 1rem;
-  color: #000166;
-  margin-bottom: 2rem;
+  .date {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1rem;
+    color: #000166;
+    margin-bottom: 2rem;
+  }
 }
 
 .footer {
@@ -215,11 +220,19 @@ p, li {
   background: #303083;
   min-height: 290px;
   color: white;
-}
 
-.footer p,
-.footer_logo p {
-  color: white;
+
+  p {
+    color: white;
+  }
+
+  .contact {
+    padding-top: 60px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
 }
 
 .footer_logo {
@@ -229,27 +242,24 @@ p, li {
   font-weight: normal;
   background: #303083;
   color: white;
+
+  p {
+    color: white;
+  }
 }
 
-.footer .contact {
-  padding-top: 60px;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 1rem;
-  line-height: 1.5rem;
-}
 
 .copyright {
-  border-top:  1px solid #6767A4;
+  border-top: 1px solid #6767A4;
   background: #303083;
   height: 66px;
   color: white;
-}
 
-.copyright p {
-  font-style: normal;
-  font-weight: 300;
-  font-size: 1rem;
-  color: white;
-  opacity: 0.7;
+  p {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1rem;
+    color: white;
+    opacity: 0.7;
+  }
 }
