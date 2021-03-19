@@ -1,13 +1,17 @@
 {{ define "main" }}
 <!--MAIN CONTENT -->
-<div class="blog">
-    <div class="row justify-content-center">
+<div class="container-xxl blog">
+    <div class="row">
         <div class="col-lg-10">
             <div class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</div>
             <h1>{{.Title}}</h1>
             {{ .Content }}
 
         </div>
+    </div>
+    <div class="row mt-5">
+        <div class="col">
+            <a href="{{.Parent.RelPermalink}}" class="btn btn-outline-primary"><i class="bi bi-arrow-left"></i> Späť na všetky články</a></div>
     </div>
 </div>
 {{ end }}
