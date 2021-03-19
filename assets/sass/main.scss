@@ -131,40 +131,30 @@ p, li {
 }
 
 
-.about {
-  font-family: DM Serif Display, serif;
-  color: #000166;
-}
-
 .dark {
   background: #3D3EFF;
   color: #FFFFFF;
 
-  .about h1,
-  .about p {
+  h1, p {
     color: #FFFFFF
   }
 }
 
 .about {
+  font-family: DM Serif Display, serif;
+  color: #000166;
+
   h1 {
     font-style: normal;
     font-weight: normal;
     font-size: 3rem;
   }
 
-  p,
-  a {
+  p, a {
     font-family: Poppins;
     font-style: normal;
     font-weight: 300;
     font-size: 1rem;
-  }
-
-  .image-parent {
-    margin-top: 20px;
-    margin-right: 5px;
-    max-width: 40px;
   }
 }
 

@@ -39,7 +39,7 @@
                 {{ range .Site.Menus.main }}
                 {{ $active := ""}}
                 {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
-                {{ $active = "active"}}
+                    {{ $active = "active"}}
                 {{end}}
                 {{ if .HasChildren }}
                 <li class="nav-item dropdown">
