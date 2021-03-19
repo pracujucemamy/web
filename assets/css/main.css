@@ -104,13 +104,13 @@ p, li {
     color: #000166;
 }
 
-.about .dark {
+.dark {
     background: #3D3EFF;
     color: #FFFFFF
 }
 
-.about .dark h1,
-.about .dark p {
+.dark .about h1,
+.dark .about p {
     color: #FFFFFF
 }
 

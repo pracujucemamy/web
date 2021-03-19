@@ -1,6 +1,8 @@
 {{ define "main" }}
-    {{ range $i,$p := .Pages }}
-        <div class="row align-items-center {{if not (modBool $i 2)}}blog_panel_odd{{end}}">
+{{ range $i,$p := .Pages }}
+<div class="container-fluid  {{if not (modBool $i 2)}}blog_panel_odd{{end}}">
+    <div class="container-xxl">
+        <div class="row align-items-center">
             <div class="col-md-1"></div>
             <div class="col-md-5 blog_summary">
                 <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
@@ -13,5 +15,7 @@
                 <img src="{{ .Permalink }}/image.png" class="img-fluid image_offset_down">
             </div>
         </div>
-    {{ end }}
+    </div>
+</div>
+{{ end }}
 {{end}}
