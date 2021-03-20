@@ -26,7 +26,7 @@ matky-zamestnankyne stávajú pre zamestnávateľov stále relevantnejšou skupi
 samotný fakt samozrejme nestavia ženy do pozície nadradenosti voči zamestnávateľom, umožňuje však diskusiu o riešeniach,
 ktoré by boli výhrou pre obe strany. Prechod z industriálnej do informačnej spoločnosti tejto diskusii len napomáha.
 
-{{< figure src="potreby_graf.png" class="text-center">}}
+<img src="potreby_graf.png" class="img-fluid mx-auto d-block"></img>
 
 ## Porady v čase, keď je štandardná starostlivosť o deti dostupná
 
