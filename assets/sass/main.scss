@@ -11,13 +11,13 @@ html {
 
 @include media-breakpoint-up(lg) {
   html {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 
 @include media-breakpoint-up(xl) {
   html {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
