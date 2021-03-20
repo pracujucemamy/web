@@ -6,14 +6,22 @@
 @import "./bootstrap/scss/bootstrap";
 
 html {
-  font-size: 15px;
+  font-size: 13px;
 }
 
-@include media-breakpoint-up(md) {
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@include media-breakpoint-up(xl) {
   html {
     font-size: 18px;
   }
+}
 
+@include media-breakpoint-up(md) {
   .image_offset_down_right {
     transform: translate(2.5rem, 2.5rem);
   }
