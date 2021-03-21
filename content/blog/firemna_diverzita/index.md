@@ -1,5 +1,6 @@
 ---
 title: "Prečo je firemná diverzita viac než móda"
+slug: "preco-je-firemna-diverzita-viac-nez-moda"
 
 date: 2021-03-15T07:00:00Z
 

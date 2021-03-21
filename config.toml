@@ -4,11 +4,18 @@ languageCode = "sk-sk"
 title = "Pracujuce Mamy"
 canonifyURLs = true
 
+
 [markup.goldmark.renderer]
   unsafe = true
 
+[markup.goldmark.parser.attribute]
+  block = true
+  title = true
+  paragraph = true
+  image = true
+
 [permalinks]
-  blog = "/blog/:year/:month/:title/"
+  blog = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
   url="https://pracujucemamy.darujme.sk/podporte-pracujuce-mamy-a927b/"

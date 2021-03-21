@@ -51,7 +51,7 @@ h1 {
   font-weight: normal;
   font-size: 3rem;
   color: #000166;
-  margin-bottom: 2rem;
+  //margin-bottom: 2rem;
 }
 
 h2 {
@@ -97,10 +97,10 @@ strong {
   color: #000166;
   font-family: 'Poppins', sans-serif;
 
-  .title {
+  h1 {
     font-family: 'DM Serif Display', serif;
     font-size: 1.5rem;
-    color: #000166;
+    color: #000166 !important;
   }
 
   a#navbarWhatWeDo.nav-link.dropdown-toggle:active,

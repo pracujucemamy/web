@@ -1,6 +1,9 @@
 --- 
 title: "Čo je returnship program?"
-date: 2021-03-03T14:15:59-06:00
+
+slug: "blogovy-clanok-o-returnshipe"
+
+date: 2020-01-17T14:15:59-06:00
 
 author: "Terézia Miháliková"
 ---

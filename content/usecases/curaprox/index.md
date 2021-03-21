@@ -41,8 +41,8 @@ Lucia Rabatinová, Managing Director, Curaprox
 Curaprox pracuje s ľuďmi, ktorí sú dobrí vo svojej práci, poznajú firmu, kolegov, značku. 
 
 
-
-## Čím žijú vaši zamestnanci
+**Čím žijú vaši zamestnanci?**
+{.mt-5}
 
 Ak je pre nich náročné skĺbiť prácu a rodinu, máme pre vás pár tipov. 
 
