@@ -1,6 +1,6 @@
 +++
 
-title = "Ako CURAPROX buduje značku férovým prístupom k zamestnancom"
+title = "Ako Curaprox buduje značku férovým prístupom k zamestnancom"
 author = "Lucia Rabatinová"
 job = "Managing Director, Curaprox"
 citation = """Voči mamám vracajúcim sa do práce vnímam obrovské predsudky. 
