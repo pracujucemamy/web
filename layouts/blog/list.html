@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ range $i,$p := .Pages }}
 {{if (modBool $i 2)}}
-<div class="container-fluid pt-5">
+<div class="container-md pt-5">
     <div class="container-md blog_summary">
         <div class="row">
             <div class="col-md-7 align-self-center">
@@ -18,7 +18,7 @@
     </div>
 </div>
 {{ else }}
-<div class="container-fluid pt-5 blog_panel_odd">
+<div class="container-md pt-5 blog_panel_odd">
     <div class="container-md blog_summary">
         <div class="row">
             <div class="col-md-7 align-self-center order-md-last">
