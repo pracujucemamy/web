@@ -16,16 +16,16 @@ Spoločnosť Deutsche Telekom IT Solutions sa zameriava na poskytovanie široké
 Podobne ako v iných firmách, aj v Deutsche Telekom riešili spôsoby, akými je možné posilniť motiváciu zamestnancov. Keďže rodičia tvoria približne 40 % zamestnancov firmy, bolo potrebné rozšíriť a zatraktívniť portfólio benefitov zameraných na rovnováhu medzi pracovným a súkromným životom.
 
 
-##Prácou z domu k špičkovému poskytovaniu služieb
+## Prácou z domu k špičkovému poskytovaniu služieb
 
 Už dlhší čas firma ponúka možnosti flexibilnej pracovnej doby a práce z domu, pričom zabezpečila zamestnancom také vybavenie, aby bola práca z home office jednoducho realizovateľná. Kým za štandardných podmienok boli možnosti práce z domu nastavené na 7 dní v mesiaci, počas pandémie sa home office stal efektívnym riešením poskytovania služieb zákazníkom bez citeľných zmien.
 
-##Bezplatným poradenstvom k pomoci zamestnancom v kríze
+## Bezplatným poradenstvom k pomoci zamestnancom v kríze
 
 Firma zaradila medzi benefity možnosť využiť bezplatné psychologické, právne a finančné poradenstvo. Pre prípad krízovej situácie majú zamestnanci k dispozícii nonstop psychologicko-poradenskú linku. Podľa Márie Mrážikovej sa totiž každý môže ocitnúť v situácii, ktorá je nad jeho sily.
 
 
-##Udržiavaním komunikácie so zamestnancami na rodičovskej k jednoduchšiemu návratu
+## Udržiavaním komunikácie so zamestnancami na rodičovskej k jednoduchšiemu návratu
 
 Keďže priemerný vek zamestnancov vo firme je 34 rokov, je pochopiteľné, že časť počíta so zakladaním rodín a výchovou detí. Zo 4.500 zamestnancov je vo firme približne 1.900 rodičmi a z nich 400 je aktuálne na materskej alebo rodičovskej dovolenke. V predchádzajúcich rokoch si v manažmente začali uvedomovať, že so zamestnancami počas ich materskej alebo rodičovskej dovolenky strácali kontakt. Zaviedli teda nové firemné procesy na podporu komunikácie so zamestnancami – rodičmi.
 
