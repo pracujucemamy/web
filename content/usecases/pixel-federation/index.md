@@ -25,9 +25,11 @@ Ako sa hovorí, zmena je život a to platí rovnako pre firmy, ako pre zamestnan
 Pri mnohých pozíciách dochádza k scenáru, keď sa zamestnankyňa vracia do firmy, ale jej pozícia je dlhodobo obsadená a nemá zmysel opäť si prehadzovať agendu.  V takom prípade je potrebné pri diskusii o návrate jasne pomenovať potreby oboch strán a pripraviť sa na dočasný, resp. prechodný model.
 
 
+
 „Rodičia na materských sú silná a veľmi motivovaná pracovná sila a to aj napriek fyzickým obmedzeniam. Ak má dostatok flexibility, vie vytvoriť mnohokrát veľkú hodnotu.“
 
 Lucia Šicko, Chief Learning Officer, Pixel Federation
+
 
 
 Pred nástupom na materskú Elena pracovala ako art lead, čo je polomanažérska pozícia. Kým bola doma, agendu prebrala jej kolegyňa. Po roku a pol z pohľadu firmy nemalo zmysel, aby sa opäť vymieňali, najmä keď boli mnohé veci rozbehnuté a Elena sa vracala na čiastočný úväzok. “Vždy som bola štandardný zamestnanec a preto som brala možnosť vrátiť sa ako samozrejmosť. Na druhej strane som sa na to celé pozrela aj z hľadiska firmy. Realisticky sme si uvedomili, že najlepšie riešenie bude vrátiť sa ako bežná grafička a vypomáhať,” uznáva Elena. “Po nejakom čase sa otváral nový projekt, kde som sa vrátila na art lead pozíciu,” dodáva spokojne.
