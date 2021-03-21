@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="container-md py-5">
+    <div class="row">
+        <div class="col">
+            <div class="text-center">
+                <h1>Príklady</h1>
+                <p>Pozrite sa na príklady z praxe</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="row row-cols-5 justify-content-around my-5">
+        {{ range $i,$p := .Pages }}
+        <div class="col align-self-center">
+            <div class="text-center"><a href="{{ .Permalink }}"><img alt="{{ .Name }}" src="{{ .Permalink }}/logo.png" class="img-fluid"></a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+
+<div class="container pb-5 mb-5">
+    <div class="row">
+        <div class="col">
+            <div class="text-center">
+                <h1>A aký je Váš príbeh? Ako Vám vieme pomôcť?</h1>
+                <p>Prvú konzultáciu máte zdarma!</p>
+                <a href="mailto:info@pracujucemamy.sk" class="btn btn-warning link-dark mt-5">Chcem bezplatnú konzultáciu</a>
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
