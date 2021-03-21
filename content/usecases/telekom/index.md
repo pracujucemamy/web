@@ -1,57 +1,45 @@
 +++
 
-title = "Ako v PIXEL FEDERATION vytvorili pracovisko, kde sa ľudia chcú vrátiť." 
-author = "Lucia Šicko" 
-job = "Chief Learning Officer, Pixel Federation" 
+title = "Ako Deutsche Telekom vytvára podmienky pre ľahší návrat rodičov po materskej a rodičovskej dovolenke." 
+author = "Mgr. Mária Mrážiková" 
+job = "Education Operation Manager, DEUTSCHE TELEKOM IT SOLUTIONS SLOVAKIA" 
 citation = """Ľudia pre nás vytvárajú hodnotu. Je v našom záujme vytvoriť im na to podmienky."""
 
 
 +++
 
-Pixel Federation je slovenská firma, ktorej online hry presiahli 80 miliónov užívateľov. V roku 2007 ju založilo pár technologických nadšencov, o desaťročie neskôr má 200 zamestnancov a na svojom konte viacero ocenení, napr. EY Entrepreneur 2018. V prevažne mužmi dominovanom odvetví firma chápe dôležitosť diverzity a preto robí vedomé kroky voči zamestnankyniam s deťmi.
 
-“ Všeobecne nemáme veľa striktných pravidiel, máme ľudí zodpovedných za konkrétne témy a potom s jednotlivcami individuálne nastavujeme veci podľa ich potrieb, ” otvára diskusiu Lucia Šicko, spoluzakladateľka a Chief Learning Officer firmy. “Pri návratoch z materskej sa vždy pozeráme jednak na situáciu vo firme, ale aj na požiadavky človeka,” dodáva. 
+Spoločnosť Deutsche Telekom IT Solutions sa zameriava na poskytovanie širokého spektra služieb v rámci informačných a komunikačných riešení, podnikových procesov či vývoja aplikácií a inovácií. Spoločnosť sa môže pochváliť viacerými oceneniami, medzi ktoré patrí napr. aj Najzamestnávateľ v oblasti IT technológií alebo ocenenie Via Bona za zodpovedné podnikanie a firemnú filantropiu.
 
-Pre firmu plnú kreatívcov bolo dôležité vytvoriť kultúru slobody a zodpovednosti zároveň. Prioritou je teda vopred pochopiť a nastaviť veci tak, aby vyhovovali obom stranám.
+**„Uvedomujeme si, že najväčším aktívom a konkurenčnou výhodou spoločnosti sú naši ľudia. Dali sme si za cieľ poskytnúť zamestnancom väčšiu voľnosť pri zosúladení práce, kariérneho rastu, súkromného života i individuálneho životného štýlu. Snažíme sa tým udržať motiváciu ľudí, podporiť fyzickú a psychickú pohodu a zároveň prispievať k pozitívnemu pracovnému prostrediu.“**
 
-
-## Férové nastavenie podmienok pre obe strany
-
-Ako sa hovorí, zmena je život a to platí rovnako pre firmy, ako pre zamestnancov. Práve schopnosť reagovať na zmeny je faktor, ktorý vplýva na dlhodobú konkurencieschopnosť. Raz sa mení zloženie tímu kvôli typu projektu, inokedy kvôli rodinným novinkám. “Ak sa kolegyňa rozhodne pracovať na čiastočný úväzok, hľadáme vhodný model. U niektorých sú to napr. 2 alebo 3 dni do týždňa, u iných len doobedia. Pri diskusii o plate vychádzame z pôvodného, pred materskou. V prípade spomínaných 3 dní upravíme uväzok na trojpätinový. V rovnakom pomere sa upraví aj plat. Podľa toho sa štandardne spraví zmluva, nastavia sa očakávania a informujeme tímy,” vysvetľuje Lucia. “Štandardne ľudia pracujú z kancelárií, s teamleadrom sa ale dá dohodnúť, že istú časť ľudia urobia z domu,” dodáva. Tento model si v praxi pochvaľuje aj produktová dizajnérka Elena. “Keď mala dcéra asi rok a pol, moja mama s ňou chcela tráviť viac času a tak som sa rozhodla vrátiť sa na čiastočný úväzok. Dohodli sme sa na troch dňoch do týždňa. Dnes je už dcéra v škôlke, ale tento model mi vyhovuje, takže ho neplánujem meniť. Ak niektorý týždeň pracujem nad rámec úväzku, počíta sa mi to ako nadčas. Pri hrubej mzde ⅗-ového uväzku to možno nie je veľa, ale mne to za tú flexibilitu stojí,” popisuje Elena. “Osobne by som z domu pracovať nevedela, v kancelárii som oveľa efektívnejšia. Ale to som ja, určite to majú rôzni ľudia rôzne,” reaguje na otázku, či by uvítala prácu na diaľku. 
+Podobne ako v iných firmách, aj v Deutsche Telekom riešili spôsoby, akými je možné posilniť motiváciu zamestnancov. Keďže rodičia tvoria približne 40 % zamestnancov firmy, bolo potrebné rozšíriť a zatraktívniť portfólio benefitov zameraných na rovnováhu medzi pracovným a súkromným životom.
 
 
-## Návrat na inú pozíciu
+## Prácou z domu k špičkovému poskytovaniu služieb
 
-Pri mnohých pozíciách dochádza k scenáru, keď sa zamestnankyňa vracia do firmy, ale jej pozícia je dlhodobo obsadená a nemá zmysel opäť si prehadzovať agendu.  V takom prípade je potrebné pri diskusii o návrate jasne pomenovať potreby oboch strán a pripraviť sa na dočasný, resp. prechodný model.
+Už dlhší čas firma ponúka možnosti flexibilnej pracovnej doby a práce z domu, pričom zabezpečila zamestnancom také vybavenie, aby bola práca z home office jednoducho realizovateľná. Kým za štandardných podmienok boli možnosti práce z domu nastavené na 7 dní v mesiaci, počas pandémie sa home office stal efektívnym riešením poskytovania služieb zákazníkom bez citeľných zmien.
 
+## Bezplatným poradenstvom k pomoci zamestnancom v kríze
 
-„Rodičia na materských sú silná a veľmi motivovaná pracovná sila a to aj napriek fyzickým obmedzeniam. Ak má dostatok flexibility, vie vytvoriť mnohokrát veľkú hodnotu.“
-
-Lucia Šicko, Chief Learning Officer, Pixel Federation
-
-
-Pred nástupom na materskú Elena pracovala ako art lead, čo je polomanažérska pozícia. Kým bola doma, agendu prebrala jej kolegyňa. Po roku a pol z pohľadu firmy nemalo zmysel, aby sa opäť vymieňali, najmä keď boli mnohé veci rozbehnuté a Elena sa vracala na čiastočný úväzok. “Vždy som bola štandardný zamestnanec a preto som brala možnosť vrátiť sa ako samozrejmosť. Na druhej strane som sa na to celé pozrela aj z hľadiska firmy. Realisticky sme si uvedomili, že najlepšie riešenie bude vrátiť sa ako bežná grafička a vypomáhať,” uznáva Elena. “Po nejakom čase sa otváral nový projekt, kde som sa vrátila na art lead pozíciu,” dodáva spokojne.
+Firma zaradila medzi benefity možnosť využiť bezplatné psychologické, právne a finančné poradenstvo. Pre prípad krízovej situácie majú zamestnanci k dispozícii nonstop psychologicko-poradenskú linku. Podľa Márie Mrážikovej sa totiž každý môže ocitnúť v situácii, ktorá je nad jeho sily.
 
 
-## Pracovisko, kde sa ľudia vracajú, pretože chcú
+## Udržiavaním komunikácie so zamestnancami na rodičovskej k jednoduchšiemu návratu
 
-Dá sa návrat po dlhšej pauze zvládnuť bez stresu? Veľa závisí od mentality a schopnosti prispôsobiť sa. Na uvedenom príklade vidieť, aký dôležitý je pri diskusii partnerský prístup. Kultúra rešpektu voči obmedzeniam sa ukazuje ako dobrá stratégia, pretože vytvára prostredie, kde sa ľudia chcú vrátiť. 
+Keďže priemerný vek zamestnancov vo firme je 34 rokov, je pochopiteľné, že časť počíta so zakladaním rodín a výchovou detí. Zo 4.500 zamestnancov je vo firme približne 1.900 rodičmi a z nich 400 je aktuálne na materskej alebo rodičovskej dovolenke. V predchádzajúcich rokoch si v manažmente začali uvedomovať, že so zamestnancami počas ich materskej alebo rodičovskej dovolenky strácali kontakt. Zaviedli teda nové firemné procesy na podporu komunikácie so zamestnancami – rodičmi.
 
- “Ľudia pre nás vytvárajú hodnotu. Je v našom záujme vytvoriť im na to podmienky..,” sumarizuje Lucia. Každá firma má špecifickú situáciu a preto neexistuje zázračný recept, ktorý funguje univerzálne. V Pixel Federation sa ukázalo, že povaha práce si do veľkej miery vyžaduje fyzickú prítomnosť. Práca z domu sa teda neukázala ako vhodné riešenie, preto hľadali iný spôsob, ako pomôcť svojim zamestnancom so starostlivosťou o deti. Nemáme síce vlastnú škôlku, ale v budove, kde sídlime jedna je. Viacerým teda prispievame na to, aby ju mohli využiť,” hovorí Lucia. 
-“ Vždy cítiť, či sa človek chce vrátiť, alebo musí. Ja som sa do práce tešila, konštatuje Elena.
+**„Zamestnanci nám oznamujú plánovaný návrat do práce v predstihu niekoľkých mesiacov. To umožňuje manažérom lepšie plánovanie, zosúladenie prípadných požiadaviek rodičov na skrátený pracovný čas s nárokmi pracovnej pozície, prípadne nájdenie vhodného alternatívneho riešenia.“**
+
+Mária Mrážiková pripomína, že každý človek je individuálny a rodičovstvo ho ovplyvní iným spôsobom. Vo firme však všeobecne pozorujú, že rodičia vracajúci sa z materskej alebo rodičovskej dovolenky majú prácu lepšie zorganizovanú, sústredia sa na dôležité veci a dokážu efektívnejšie sledovať konkrétne ciele.
 
 
-## Rovnováha slobody a zodpovednosti
-
-Lucia sa pozerá na situáciu z oboch strán – sama je mama troch detí a zároveň v manažmente firmy. “Dôvera je silná vec, veľmi si vážim, že ju od firmy dostávam. Ja sama pracujem v kancelárii cca 6 hodín denne, zvyšok podľa toho, ako mi dovolí rodinná situácia”, hovorí.
-Sloboda aj zodpovednosť sú pomerne abstraktné pojmy a preto je na mieste otázka, ako ich efekt zhodnotiť v niečom hmatateľnom. V prípade samotnej Lucie je to napríklad ocenenie **HR leader 2020** a v kontexte firmy samotnej jej **finančné ukazovatele.**
+**„Záleží nám na tom, aby sme našim zamestnancom umožnili nájsť rovnováhu medzi pracovným a súkromným životom a tým im poskytli aj priestor na odborný rast.“ Dodala Mária Mrážiková.**
 
 
 
-**Tak čo, sen alebo reálna možnosť?**
 
-**S čím sa v tejto téme stretávate vo vašej firme?**
-Sme samé ucho a čo vieme, o to sa radi podelíme.
+**Čím žijú vaši zamestnanci?**
 
-
+Ak je pre nich náročné skĺbiť prácu a rodinu, máme pre vás pár tipov. 
 
