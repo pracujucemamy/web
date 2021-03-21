@@ -42,7 +42,7 @@ Curaprox pracuje s ľuďmi, ktorí sú dobrí vo svojej práci, poznajú firmu, 
 
 
 
-**Čím žijú vaši zamestnanci?**
+## Čím žijú vaši zamestnanci
 
 Ak je pre nich náročné skĺbiť prácu a rodinu, máme pre vás pár tipov. 
 
