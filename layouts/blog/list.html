@@ -3,7 +3,7 @@
 {{if (modBool $i 2)}}
 <div class="container-fluid pt-5">
     <div class="container-md blog_summary">
-        <div class="row justify-content-between">
+        <div class="row">
             <div class="col-md-7 align-self-center">
                 <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
                 <h1>{{ .Title }}</h1>
@@ -11,7 +11,7 @@
                 <a href="{{ .RelPermalink  }}" class="read_more">Čítaj viac ➔</a>
                 <p></p>
             </div>
-            <div class="col-md">
+            <div class="col-md align-self-end">
                 <img src="{{ .Permalink }}/image.png" class="img-fluid float-end image_offset_down_right">
             </div>
         </div>
@@ -20,7 +20,7 @@
 {{ else }}
 <div class="container-fluid pt-5 blog_panel_odd">
     <div class="container-md blog_summary">
-        <div class="row justify-content-between">
+        <div class="row">
             <div class="col-md-7 align-self-center order-md-last">
                 <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
                 <h1>{{ .Title }}</h1>
@@ -28,7 +28,7 @@
                 <a href="{{ .RelPermalink  }}" class="read_more">Čítaj viac ➔</a>
                 <p></p>
             </div>
-            <div class="col-md order-md-first">
+            <div class="col-md order-md-first align-self-end">
                 <img src="{{ .Permalink }}/image.png" class="img-fluid float-start image_offset_down_left">
             </div>
         </div>
