@@ -3,6 +3,9 @@
  2021 Pracujuce Mamy
  */
 
+$primary: #303083;
+$link-color: #3D3EFF;
+
 @import "./bootstrap/scss/bootstrap";
 
 html {
@@ -35,7 +38,6 @@ html {
     transform: translate(2.5rem, -2.5rem);
   }
 }
-
 
 
 body {
@@ -159,10 +161,6 @@ strong {
 .blog_summary {
   h1 {
     font-size: 2rem;
-  }
-
-  .read_more {
-    color: #3D3EFF;
   }
 }
 
