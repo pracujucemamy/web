@@ -20,3 +20,7 @@ lorem ipsumlorem ipsumlorem ipsumlorem ipsum
 
 
 
+![obrazok](obrazok.png)
+
+
+
