@@ -8,10 +8,10 @@ author: "Igor Mihalik"
 ---
 
 Toto je moj prvy blog.
+<!--more-->
 
 lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
-lorem ipsumlorem ipsumlorem ipsum
-lorem ipsumlorem ipsumlorem ipsumlorem ipsum
+lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum
 
 ## Podnadpis
 
