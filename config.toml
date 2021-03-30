@@ -1,4 +1,4 @@
-baseURL = "https://apps.igormihalik.com/pracujucemamy.sk/"
+baseURL = "https://beta.pracujucemamy.sk"
 defaultContentLanguage = "sk"
 languageCode = "sk-sk"
 title = "Pracujuce Mamy"
