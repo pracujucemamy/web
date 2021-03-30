@@ -1,12 +1,12 @@
---- 
-title: "Čo je returnship program?"
-
-slug: "blogovy-clanok-o-returnshipe"
-
-date: 2020-01-17T14:15:59-06:00
-
-author: "Terézia Miháliková"
----
++++ 
+title= "Čo je returnship program?"
+slug= "blogovy-clanok-o-returnshie"
+date = 2020-01-17T14:15:59-06:00 
+author= "Terézia Miháliková"
+aliases = [
+"/2020/01/17/blogovy-clanok-o-returnshipe/"
+]
++++
 
 V súčasnej situácii je čoraz ťažšie nájsť kvalifikovaného zamestnanca. Každý zamestnávateľ vie, že o dobrého odborníka
 je veľký záujem. Preto sa hľadajú nové kreatívne spôsoby, ako takých odborníkov nájsť.

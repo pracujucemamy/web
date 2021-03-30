@@ -14,9 +14,6 @@ canonifyURLs = true
   paragraph = true
   image = true
 
-[permalinks]
-  blog = "/:year/:month/:day/:slug/"
-
 [[menu.main]]
   url="https://pracujucemamy.darujme.sk/podporte-pracujuce-mamy-a927b/"
   title = "Podporte nás"
