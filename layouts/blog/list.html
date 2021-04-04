@@ -12,7 +12,7 @@
                 <p></p>
             </div>
             <div class="col-md align-self-end">
-                {{ if (path.Join .Dir "/image.png" | fileExists) }}
+                {{ if (path.Join .File.Dir "/image.png" | fileExists) }}
                 <img src="{{ .Permalink }}/image.png" class="img-fluid float-end image_offset_down_right">
                 {{ else  }}
                 <img src="image.png" class="img-fluid float-end image_offset_down_right">
