@@ -34,9 +34,9 @@
             </div>
             <div class="col-md order-md-first align-self-end">
                 {{ if (path.Join .File.Dir "/image.png" | fileExists) }}
-                <img src="{{ .Permalink }}/image.png" class="img-fluid float-end image_offset_down_right">
+                <img src="{{ .Permalink }}/image.png" class="img-fluid float-end image_offset_down">
                 {{ else  }}
-                <img src="image.png" class="img-fluid float-end image_offset_down_right">
+                <img src="image.png" class="img-fluid float-end image_offset_down">
                 {{ end }}
             </div>
         </div>
@@ -44,4 +44,5 @@
 </div>
 {{ end }}
 {{ end }}
+<div class="container-md pt-5"></div>
 {{ end }}

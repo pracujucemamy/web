@@ -1,11 +1,14 @@
----
-title: "Prečo je firemná diverzita viac než móda"
-slug: "preco-je-firemna-diverzita-viac-nez-moda"
++++
 
-date: 2021-03-15T07:00:00Z
+author= "Zuzana Pokrivčáková"
+title= "Prečo je firemná diverzita viac než móda"
+slug= "preco-je-firemna-diverzita-viac-nez-moda"
+date= 2021-03-15T07:00:00Z
 
-author: "Zuzana Pokrivčáková"
----
+aliases = [
+"/2020/02/14/3-najcastejsie-potreby-matiek-na-pracovisku-a-preco-by-nas-to-malo-zaujimat/"
+]
++++
 
 Bežne diskutovanou problematikou a jednou z oblastí firemnej diverzity je rovnomerné zastúpenie mužov a žien vo všetkých
 pozíciách, ktoré ešte stále viacerí vnímajú ako citlivú tému. Otázka rovnakých príležitostí pre ženy aj mužov presahuje

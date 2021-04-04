@@ -1,12 +1,13 @@
 +++
 
+author = "Patrícia Hirschnerová"
 title = "3 najčastejšie potreby matiek na pracovisku a prečo by nás to malo zaujímať"
-
 slug = "3-najcastejsie-potreby-matiek-na-pracovisku-a-preco-by-nas-to-malo-zaujimat"
-
 date = 2020-02-14T14:15:59-06:00
 
-author = "Patrícia Hirschnerová"
+aliases = [
+"/2020/02/14/3-najcastejsie-potreby-matiek-na-pracovisku-a-preco-by-nas-to-malo-zaujimat/"
+]
 
 +++
 

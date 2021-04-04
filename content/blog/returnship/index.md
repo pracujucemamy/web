@@ -1,8 +1,10 @@
-+++ 
++++
+
+author= "Terézia Miháliková"
 title= "Čo je returnship program?"
 slug= "returnship"
-date = 2020-01-17T14:15:59-06:00 
-author= "Terézia Miháliková"
+date = 2020-01-17T14:15:59-06:00
+
 aliases = [
 "/2020/01/17/blogovy-clanok-o-returnshipe/"
 ]
