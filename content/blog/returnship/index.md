@@ -1,6 +1,6 @@
 +++ 
 title= "Čo je returnship program?"
-slug= "blogovy-clanok-o-returnshie"
+slug= "returnship"
 date = 2020-01-17T14:15:59-06:00 
 author= "Terézia Miháliková"
 aliases = [
