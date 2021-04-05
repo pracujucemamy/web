@@ -1,0 +1,15 @@
+{{ define "main" }}
+<!--MAIN CONTENT -->
+<div class="container-md blog">
+    <div class="row justify-content-center">
+        <div class="col-md-9">
+            {{ .Content }}
+        </div>
+    </div>
+    <div class="row  justify-content-center mt-5">
+        <div class="col-md-9">
+            <a href="{{.Parent.RelPermalink}}" class="btn btn-outline-primary"><i class="bi bi-arrow-left"></i> Späť</a></div>
+    </div>
+</div>
+
+{{ end }}
