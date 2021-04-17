@@ -6,6 +6,8 @@
     <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
+    {{ if isset .Params "mtitle" }}<meta name="title" content="{{ .Params.mtitle }}" />{{ end }}
+    {{ if isset .Params "mdescription" }}<meta name="description" content="{{ .Params.mdescription }}" />{{end}}
 
     <link rel="apple-touch-icon" sizes="180x180" href="{{.Site.BaseURL}}/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="{{.Site.BaseURL}}/favicon-32x32.png">

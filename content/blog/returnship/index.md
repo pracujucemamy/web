@@ -5,6 +5,9 @@ title= "Čo je returnship program?"
 slug= "returnship"
 date = 2020-01-17T14:15:59-06:00
 
+mtitle = "Objavte Returnship program | Pracujúce mamy"
+mdescription = "Returnship program je stáž pre seniorné talenty. Ideálny nástroj pre nábor špecialistov po kariérnej pauze, ktorý prináša výhody pre “stážistu” aj vašu firmu."
+
 aliases = [
 "/2020/01/17/blogovy-clanok-o-returnshipe/"
 ]
