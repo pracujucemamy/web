@@ -1,6 +1,6 @@
 +++
 
-title = "Ako v Pixel Federation vytvorili pracovisko, kde sa ľudia chcú vrátiť."
+title = "Ako v Pixel Federation vytvorili pracovisko, kde sa ľudia chcú vrátiť"
 author = "Lucia Šicko"
 job = "Chief Learning Officer, Pixel Federation"
 citation = """Ľudia pre nás vytvárajú hodnotu. Je v našom záujme vytvoriť im na to podmienky."""

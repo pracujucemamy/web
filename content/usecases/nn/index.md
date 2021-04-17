@@ -1,6 +1,6 @@
 +++
 
-title = "Ako NN zistili, že práca z domu sa vypláca."
+title = "Ako NN zistili, že práca z domu sa vypláca"
 author = "Miroslava Jandorfová"
 job = "MHR director, NN Slovensko"
 citation = """Home office je o vzájomnej dôvere. Do akej miery sa ju darí budovať záleží aj od zrelosti manažmentu."""

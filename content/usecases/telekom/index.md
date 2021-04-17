@@ -1,6 +1,6 @@
 +++
 
-title = "Ako Deutsche Telekom vytvára podmienky pre ľahší návrat rodičov po materskej a rodičovskej dovolenke."
+title = "Ako Deutsche Telekom vytvára podmienky pre ľahší návrat rodičov po materskej a rodičovskej dovolenke"
 author = "Mgr. Mária Mrážiková"
 job = "Education Operation Manager, DEUTSCHE TELEKOM IT SOLUTIONS SLOVAKIA"
 citation = """Ľudia pre nás vytvárajú hodnotu. Je v našom záujme vytvoriť im na to podmienky."""
