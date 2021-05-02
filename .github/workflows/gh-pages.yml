@@ -24,11 +24,11 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify -b https://beta.pracujucemamy.sk
+        run: hugo --minify -b https://www.pracujucemamy.sk
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          cname: beta.pracujucemamy.sk
+          cname: www.pracujucemamy.sk
