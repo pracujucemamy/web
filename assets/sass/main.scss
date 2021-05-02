@@ -161,6 +161,7 @@ strong {
 
 .dark {
   color: #FFFFFF;
+
   h1, h2, h3, p {
     color: #FFFFFF
   }
@@ -177,6 +178,26 @@ strong {
   background-color: #F3F3FF;
 }
 
+
+.bgF3F3FF {
+  background-color: #F3F3FF;
+}
+
+.bgFFA4A4 {
+  background-color: #FFA4A4;
+}
+
+.bgFFFAF1 {
+  background-color: #FFFAF1;
+}
+
+.bg3D3EFF {
+  background-color: $secondary;
+}
+
+.bgFFFAFA {
+  background-color: #FFFAFA;
+}
 
 .blog {
   margin-top: 2rem;

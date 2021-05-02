@@ -1,0 +1,44 @@
+<nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" style="background-color: #ffffff;">
+    <div class="container-md header">
+        <a class="navbar-brand" href="{{.Site.BaseURL}}">
+            <svg width="56" height="40" viewBox="0 0 56 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                      d="M27.998 33.6824C25.6088 35.1513 22.8044 35.9971 19.8049 35.9971C11.0761 35.9971 4 28.8343 4 19.9985C4 11.1628 11.0761 4 19.8049 4C22.8035 4 25.6112 4.84694 28.002 6.31753C30.3657 4.86432 33.1367 4.02061 36.1033 4.00317C44.832 3.95186 51.949 11.0729 51.9997 19.9085C52.0504 28.7442 45.0155 35.9484 36.2869 35.9997C33.2555 36.0175 30.4143 35.1686 27.998 33.6824ZM7.5122 19.9985C7.5122 13.1263 13.0158 7.55523 19.8049 7.55523C21.661 7.55523 23.4184 7.97061 24.994 8.71448C22.1273 11.6296 20.365 15.6562 20.3905 20.0943C20.4012 21.961 20.7281 23.7548 21.3208 25.4217L24.6254 24.2175C24.1658 22.9251 23.911 21.5312 23.9026 20.0737C23.8632 13.2016 29.3348 7.59825 36.1237 7.55834C42.9127 7.51844 48.4482 13.0571 48.4876 19.9292C48.527 26.8013 43.0554 32.4046 36.2665 32.4446C34.385 32.4556 32.6025 32.0393 31.006 31.2855C33.8512 28.3924 35.6098 24.4033 35.6098 19.9985C35.6098 18.1318 35.2932 16.3361 34.71 14.6659L31.3986 15.8506C31.8508 17.1457 32.0976 18.541 32.0976 19.9985C32.0976 26.8708 26.594 32.4419 19.8049 32.4419C13.0158 32.4419 7.5122 26.8708 7.5122 19.9985Z"
+                      fill="#000166"/>
+            </svg>
+        </a>
+        <h1 class="navbar-text title d-none d-sm-block">Pracujúce mamy</h1>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
+                aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarToggler">
+            <ul class="navbar-nav ms-auto">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                {{ $active := ""}}
+                {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+                {{ $active = "active"}}
+                {{end}}
+                {{ if .HasChildren }}
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle top_menu_item {{$active}}" id="navbarWhatWeDo" role="button"
+                       data-bs-toggle="dropdown" aria-expanded="false" target="{{.Params.Target}}"
+                       href="{{.URL}}">{{.Title}}</a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarWhatWeDo">
+                        {{ range .Children }}
+                        <li><a class="dropdown-item" href="{{.URL}}">{{.Title}}</a></li>
+                        {{ end }}
+                    </ul>
+                </li>
+                {{ else }}
+                <li class="nav-item">
+                    <a class="nav-link top_menu_item {{$active}} {{ .Params.Style }}" href="{{.URL}}"
+                       target="{{.Params.Target}}">{{ .Title }}</a>
+                </li>
+                {{ end }}
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</nav>
