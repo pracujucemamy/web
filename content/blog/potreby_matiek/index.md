@@ -29,7 +29,7 @@ matky-zamestnankyne stávajú pre zamestnávateľov stále relevantnejšou skupi
 samotný fakt samozrejme nestavia ženy do pozície nadradenosti voči zamestnávateľom, umožňuje však diskusiu o riešeniach,
 ktoré by boli výhrou pre obe strany. Prechod z industriálnej do informačnej spoločnosti tejto diskusii len napomáha.
 
-<img src="potreby_graf.png" class="img-fluid mx-auto d-block"></img>
+{{< image src="potreby_graf.png" >}}
 
 ## Porady v čase, keď je štandardná starostlivosť o deti dostupná
 
@@ -47,3 +47,31 @@ podmienkach – napr. v čase detských prázdnin alebo v prípade, že dieťa o
 choré, v škôlke ho môžu odmietnuť aj kvôli jemnej nádche. Matka teda nemôže ísť do práce, aj keď by určitú časť svojej
 agendy vedela pokojne spraviť z domu. Nastavenie kultúry tímu či disciplíny počas práce z domu je samozrejme komplexná
 téma. Určiť možnosť home-officu na spomínané dve situácie však môže byť prvým krokom.
+
+## Skrátený úväzok, ktorý sa postupne predlžuje
+
+Táto možnosť ide ruka v ruke s možnosťou zdieľaného pracovného miesta, ktoré je v iných krajinách rozšírené pod pojmom
+job-sharing. Primárne ide o čiastočný úväzok, keď sa matky ešte nechcú vrátiť na plných 8 hodín, môžu však vypomáhať s
+čiastkovými úlohami. Takéto postupné zapájanie by im pomohlo dostať sa do obrazu a zároveň odbremeniť vyťažených
+kolegov.
+
+V prípade job-sharingu sa o jednu full-time agendu delia dvaja ľudia. Pre zamestnávateľa z toho síce môžu vyvstať extra
+náklady, keď však berieme do úvahy krivku produktivity a schopnosť zamestnanca sústrediť sa, zisk môže prevažovať. Ako
+príklad si vezmime jedného človeka pracujúceho na plný úväzok, ktorý sa po obednej prestávke vracia k svojej agende,
+avšak opätovné pracovné nasadenie dosahuje až po nejakej dobe. Poobedná káva a správy, príp. sociálne siete, kto z nás
+to nepozná? V alternatívnom scenári môžeme mať dve matky pracujúce doobeda, medzi 8-12:00. Na jednej strane sú rady, že
+pracujú (či už z hľadiska finančného alebo sebarealizácie), na druhej vedia, že poobedie môžu pokojne stráviť so svojim
+dieťaťom. Ich produktivita a teda zosumarizovaný výsledok práce môže byť teda vyšší, než v prípade štandardného 8
+hodinového pracovného dňa jedného človeka. Takéto nastavenie samozrejme vyžaduje určitý typ práce a je na
+zamestnávateľovi, či môže/vie takúto pozíciu vytvoriť.
+
+## Začiatok dialógu
+
+Spomínané 3 opatrenia teda podľa hodnotení dosiahli najvyššie skóre, za zamyslenie však určite stoja aj ďalšie z nich.
+Podrobné rozdelenie opatrení podľa oblastí nájdete tu.
+
+## Ako to funguje u Vás?
+
+Ako sú na tom pracujúce matky vo vašej firme/organizácii? Aké iné opatrenia Vám fungujú? Ak na tieto otázky hľadáte
+odpovede aj Vy a zaujíma Vás podrobnejšia analýza (napr. rozdelenie preferencií v závislosti od typu pracovnej pozície
+danej matky), pokojne nás kontaktujte.
