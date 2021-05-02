@@ -7,7 +7,7 @@ type = "gdpr"
 
 # Spracovanie a ochrana osobných udajov
 
-## O co ide?
+## O čo ide?
 
 Všeobecné európske nariadenie o ochrane osobných údajov (ďalej len GDPR) a zákon č. 18/2018 upravujú spôsob, ako sa má
 nakladať s vašimi osobnými údajmi. Aby sme vám plnohodnotne mohli poskytovať naše aktivity a služby, potrebujeme
