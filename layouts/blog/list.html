@@ -1,38 +1,39 @@
 {{ define "main" }}
 {{ range $i,$p := .Pages }}
 {{if (modBool $i 2)}}
-<div class="container-md pt-5">
-    <div class="container-md blog_summary">
+
+<div class="container">
+    <div class="row justify-content-between">
         <div class="row">
-            <div class="col-md-7 align-self-center">
+            <div class="col-md-6 align-self-center pb-4">
                 <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
                 <h1>{{ .Title }}</h1>
                 {{ .Summary }}
                 <a href="{{ .RelPermalink  }}" class="link fw-bold">Čítaj viac ➔</a>
                 <p></p>
             </div>
-            <div class="col-md align-self-end">
+            <div class="col-md-5 align-self-end">
                 {{ if (path.Join .File.Dir "/image.png" | fileExists) }}
-                <img src="{{ .Permalink }}/image.png" class="img-fluid float-end image_offset_down_right">
+                <img src="{{ .Permalink }}/image.png" class="img-fluid image_offset_down_right">
                 {{ else  }}
-                <img src="image.png" class="img-fluid float-end image_offset_down_right">
+                <img src="image.png" class="img-fluid image_offset_down_right">
                 {{ end }}
             </div>
         </div>
     </div>
 </div>
 {{ else }}
-<div class="container-md pt-5 blog_panel_odd">
-    <div class="container-md blog_summary">
-        <div class="row">
-            <div class="col-md-7 align-self-center order-md-last">
+<div class="container-fluid pt-5" style="background-color: #F3F3FF;">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-md-6 offset-md-1 align-self-center">
                 <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
                 <h1>{{ .Title }}</h1>
                 {{ .Summary }}
                 <a href="{{ .RelPermalink  }}" class="link fw-bold">Čítaj viac ➔</a>
                 <p></p>
             </div>
-            <div class="col-md order-md-first align-self-end">
+            <div class="col-md-5 order-md-first align-self-end">
                 {{ if (path.Join .File.Dir "/image.png" | fileExists) }}
                 <img src="{{ .Permalink }}/image.png" class="img-fluid float-end image_offset_down">
                 {{ else  }}
