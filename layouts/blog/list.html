@@ -2,30 +2,28 @@
 {{ range $i,$p := .Pages }}
 {{if (modBool $i 2)}}
 
-<div class="container pt-5">
+<div class="container">
     <div class="row justify-content-between">
-        <div class="row">
-            <div class="col-md-6 align-self-center pb-3">
-                <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
-                <h1>{{ .Title }}</h1>
-                {{ .Summary }}
-                <a href="{{ .RelPermalink  }}" class="link fw-bold">Čítaj viac ➔</a>
-            </div>
-            <div class="col-md-5 align-self-end">
-                {{ if (path.Join .File.Dir "/image.png" | fileExists) }}
-                <img src="{{ .Permalink }}/image.png" class="img-fluid image_offset_down_right">
-                {{ else  }}
-                <img src="image.png" class="img-fluid image_offset_down_right">
-                {{ end }}
-            </div>
+        <div class="col-md-6 align-self-center pb-3 pt-5">
+            <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
+            <h1>{{ .Title }}</h1>
+            {{ .Summary }}
+            <a href="{{ .RelPermalink  }}" class="link fw-bold">Čítaj viac ➔</a>
+        </div>
+        <div class="col-md-5 align-self-end">
+            {{ if (path.Join .File.Dir "/image.png" | fileExists) }}
+            <img src="{{ .Permalink }}/image.png" class="img-fluid image_offset_down_right">
+            {{ else }}
+            <img src="image.png" class="img-fluid image_offset_down_right">
+            {{ end }}
         </div>
     </div>
 </div>
 {{ else }}
-<div class="container-fluid pt-5" style="background-color: #F3F3FF;">
+<div class="container-fluid" style="background-color: #F3F3FF;">
     <div class="container">
         <div class="row justify-content-between">
-            <div class="col-md-6 offset-md-1 align-self-center pb-3">
+            <div class="col-md-6 offset-md-1 align-self-center pb-3 pt-5">
                 <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
                 <h1>{{ .Title }}</h1>
                 {{ .Summary }}
@@ -34,7 +32,7 @@
             <div class="col-md-5 order-md-first align-self-end">
                 {{ if (path.Join .File.Dir "/image.png" | fileExists) }}
                 <img src="{{ .Permalink }}/image.png" class="img-fluid float-end image_offset_down">
-                {{ else  }}
+                {{ else }}
                 <img src="image.png" class="img-fluid float-end image_offset_down">
                 {{ end }}
             </div>
@@ -43,5 +41,5 @@
 </div>
 {{ end }}
 {{ end }}
-<div class="container-md pt-5"></div>
+<div class="container-fluid pt-5" style="background-color: #303083"></div>
 {{ end }}
