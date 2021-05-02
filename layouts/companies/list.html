@@ -56,7 +56,7 @@
             {{ range .Pages }}
             <div class="col-5 col-sm-3 col-md-2 align-self-center">
                 <img alt="{{ .Name }}" src="{{ .Permalink }}/logo.png" class="img-fluid text-center mb-4">
-                <p class="text-center fs-6 lh-sm">{{ .Params.Subtitle }}</p>
+                <p class="text-center lh-sm">{{ .Params.Subtitle }}</p>
                 <p class="text-center"><a href="{{ .Permalink }}" class="link fw-bold">Zistiť viac ➔</a></p>
             </div>
             {{ end }}
