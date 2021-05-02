@@ -176,6 +176,6 @@ Už chápem, že lepšie ako bojovať je snažiť sa pochopiť aj druhú stranu 
 <div class="col-md-8">
 <p>Som žena, ktorú napĺňa, keď si vďaka nej ľudia rozumejú. Pôvodne sa táto misia uplatňovala v práci tlmočníčky (čo som aj vyštudovala), neskôr som pomáhala Slido klientom so zmysluplným dizajnom ich porád a stretnutí. Dnes som popri druhom dieťati na ceste zodpovedná za firmy a partnerstvá v Pracujúcich mamách. 
 Fascinuje ma interiérový aj webový dizajn a najradšej mám ázijskú kuchyňu, lebo je to rýchle a doma to všetkým chutí.</p>
-<p>Spojte sa s Paťkou na <a href=" https://www.linkedin.com/in/patricia-hirschnerova">LinkeIn</a></p>
+<p>Spojte sa s Paťkou na <a href="https://www.linkedin.com/in/patricia-hirschnerova">LinkeIn</a></p>
 </div>
 </div>
