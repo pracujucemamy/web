@@ -5,6 +5,8 @@ title = "Pracujuce Mamy"
 canonifyURLs = true
 
 
+googleAnalytics = "UA-170151834-1"
+
 [markup.goldmark.renderer]
   unsafe = true
 
