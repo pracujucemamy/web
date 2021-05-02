@@ -2,7 +2,7 @@
 
 author= "Terézia Miháliková"
 title= "Prvý rok projektu Pracujúce mamy v kocke, semester a pracovný portál pre mamy"
-slug= "prvy-rok-projektu-pracujuce-mamy-v-kocke-semester-a-pracovny-portal-pre-mamy"
+slug= "prvy-rok-projektu-pracujuce-mamy-v-kocke"
 date= 2021-04-26T07:00:00Z
 
 aliases = [
