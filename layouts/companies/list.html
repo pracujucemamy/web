@@ -1,0 +1,123 @@
+{{ define "main" }}
+
+<div class="container">
+    <div class="row justify-content-between">
+        <div class="col-md-6 align-self-center pb-4">
+            <h1>Nábor mám po materskej
+                a spolupráca s rodičmi
+                je náročnejšia, ale vypláca sa</h1>
+            <p>Radi vám s tým pomôžeme. Prvá konzultácia zdarma!</p>
+        </div>
+        <div class="col-md-5 align-self-end">
+            <div class="float-end"><img src="companies.png" class="img-fluid image_offset_down_right"></div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid dark py-5" style="background-color: #3D3EFF">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="text-center">Prečo sa oplatí zamestnávať mamy</h2>
+            </div>
+            <div class="col-md-4">
+                <h2 class="text-center"><img src="graph_1.png" class="img-fluid"></h2>
+                <p class="text-center fw-bold">Lepšie finančné výsledky</p>
+                <p class="text-center lh-sm">Firmy so zmiešaným (mužsko-ženským) kolektívom na všetkých úrovniach
+                    dosahujú o 15 % lepšie finančné výsledky ako ich konkurencia v tej istej krajine.</p>
+                <p class="text-center fst-italic fs-6">Zdroj: McKinsey Research</p>
+            </div>
+            <div class="col-md-4">
+                <h2 class="text-center"><img src="graph_2.png" class="img-fluid"></h2>
+                <p class="text-center fw-bold">Udržanie produktívneho veku</p>
+                <p class="text-center lh-sm">V roku 2030 sa v porovnaní s 2015 odhaduje pokles generácie 25-44 rokov o
+                    22 %.</p>
+                <p class="text-center fst-italic fs-6">Zdroj: Eurostat</p>
+            </div>
+            <div class="col-md-4">
+                <h2 class="text-center"><img src="graph_3.png" class="img-fluid"></h2>
+                <p class="text-center fw-bold">Lojálnejší zamestnanci</p>
+                <p class="text-center lh-sm">83 % pracujúcich mám zmení zamestnávateľa, ak má ponuku od niekoho, kto
+                    viac rešpektuje ich rodinné potreby.</p>
+                <p class="text-center fst-italic fs-6">Zdroj: Building a better workplace – 10 Drivers for Women’s
+                    Success at Work</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid py-5">
+    <div class="container">
+        <div class="row justify-content-around ">
+            <div class="col-md-12">
+                <h2 class="text-center">Príklady firiem, ako to môže fungovať</h2>
+            </div>
+            {{ range .Pages }}
+            <div class="col-5 col-sm-3 col-md-2 align-self-center">
+                <img alt="{{ .Name }}" src="{{ .Permalink }}/logo.png" class="img-fluid text-center mb-4">
+                <p class="text-center fs-6 lh-sm">{{ .Params.Subtitle }}</p>
+                <p class="text-center"><a href="{{ .Permalink }}" class="link fw-bold">Zistiť viac ➔</a></p>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid py-5" style="background-color: #FFFAFA">
+    <div class="container">
+        <div class="row justify-content-around ">
+            <div class="col-md-12">
+                <h2 class="text-center">Ako vyzerá spolupráca s Pracujúce mamy</h2>
+            </div>
+            <div class="col-md-4">
+                <h2 class="text-center"><img src="analyses.svg" class="img-fluid"></h2>
+                <p class="text-center fw-bold">1. Analýza</p>
+                <p class="text-center lh-sm"> Ako fungujú doterajšie opatrenia, ktoré ste pre zamestnancov–rodičov
+                    zaviedli? Sú dostatočne efektívne?</p>
+            </div>
+            <div class="col-md-4">
+                <h2 class="text-center"><img src="plan.svg" class="img-fluid"></h2>
+                <p class="text-center fw-bold">2. Plán riešení</p>
+                <p class="text-center lh-sm">Na mieru šité odporúčania a postupy, ktoré vašim zamestnancom–rodičom
+                    zlepšia pracovné podmienky.
+                    Mnohé z nich vás nebudú stáť ani cent navyše.</p>
+            </div>
+            <div class="col-md-4">
+                <h2 class="text-center"><img src="implementation.svg" class="img-fluid"></h2>
+                <p class="text-center fw-bold">3. Implementácia</p>
+                <p class="text-center lh-sm">Plán je hotový ale nemáte čas ani ľudské kapacity zrealizovať ho? Radi sa
+                    porozprávame o ďalšej spolupráci.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid py-5" style="background-color: #FFA4A4">
+    <div class="container">
+        <div class="row justify-content-around ">
+            <div class="col-md-12">
+                <h2 class="text-center">Páči sa vám myšlienka, ale neviete si ju predstaviť v praxi?</h2>
+                <p class="text-center">Prvú konzultáciu vám radi poskytneme <strong>zdarma</strong>!</p>
+                <p class="text-center  pt-3"><a href="#TODO" class="btn btn-light rounded-pill">Mám záujem o
+                    spoluprácu</a></p>
+                <p class="text-center mt-5">patricia.hirschnerova&#64;pracujucemamy.sk / +421 908 082 878</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid py-5" style="background-color: #FFFAF1">
+    <div class="container">
+        <div class="row justify-content-around ">
+            <div class="col-md-12">
+                <h2 class="text-center"><img src="pulp.png" class="align-middle"> Náš tip</h2>
+                <p class="text-center">Zaujíma vás, ako čo najlepšie využiť potenciál ľudí po kariérnej pauze?</p>
+                <p class="text-center">Možno je pre vás odpoveď <a href="/blog/returnship/">returnship</a> program.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}
