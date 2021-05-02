@@ -22,7 +22,7 @@ Poskytnutie súhlasu je dobrovoľné a je ho možné kedykoľvek odvolať. Rozsa
     Františka Veselovského 2 
     917 01 Trnava 
     IČO: 52926249 
-    Email: info@pracujucemamy.sk
+    Email: info&#64;pracujucemamy.sk
 
 ## Čo patrí medzi zhromažďované údaje?
 
@@ -66,13 +66,13 @@ Máte:
 - Právo na prenosnosť osobných údajov
 - Právo namietať
 
-Ak si chcete uplatiť jedno z týchto práv, prosím kontaktujte nás na info@pracujucemamy.sk. Ak nebudete spokojní s tým,
+Ak si chcete uplatiť jedno z týchto práv, prosím kontaktujte nás na info&#64;pracujucemamy.sk. Ak nebudete spokojní s tým,
 ako sme reagovali na uplatnenie vašich práv, máte právo sa obrátiť na Úrad na ochranu osobných údajov Slovenskej
 republiky.
 
 ## Môžem svoj súhlas aj odvolať?
 
-Svoj súhlas na spracovanie údajov môžete kedykoľvek odvolať na info@pracujucemamy.sk
+Svoj súhlas na spracovanie údajov môžete kedykoľvek odvolať na info&#64;pracujucemamy.sk
 
 Vaše osobné údaje chránime v maximálnej možnej miere pomocou moderných technológii. Ak by ste mali otázky, nejasnosti,
 budeme radi, ak nás budete kontaktovať.
