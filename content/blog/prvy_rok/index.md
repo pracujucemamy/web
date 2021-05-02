@@ -154,7 +154,7 @@ kancelárii do piatej a či jej má kto strážiť deti, ak budú mať sople.
 Budem spokojná, keď zamestnávanie žien po materskej dovolenke už nebude téma, ale samozrejmosť. Takže keď nás už nebude
 treba, sme v cieli.
 
-### KTO SME
+## Kto sme?
 
 #### Terézia Miháliková
 <div class="row">
