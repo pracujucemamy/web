@@ -252,3 +252,18 @@ strong {
     opacity: 0.7;
   }
 }
+
+.beta {
+  content: "beta";
+  position: fixed;
+  width: 80px;
+  height: 25px;
+  background: $danger;
+  top: 7px;
+  left: -20px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #fff;
+  line-height: 27px;
+  transform:rotate(-45deg);
+}

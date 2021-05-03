@@ -31,3 +31,5 @@ googleAnalytics = "UA-170151834-1"
     title = "Working Moms"
     weight = 2
 
+[params]
+  beta = false
