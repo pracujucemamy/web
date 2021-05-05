@@ -19,27 +19,17 @@
             <ul class="navbar-nav ms-auto">
                 {{ $currentPage := . }}
                 {{ range .Site.Menus.main }}
-                {{ $active := ""}}
-                {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+                {{ $active := "" }}
+                {{if $currentPage.IsMenuCurrent "main" . }}
                 {{ $active = "active"}}
                 {{end}}
-                {{ if .HasChildren }}
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle top_menu_item {{$active}}" id="navbarWhatWeDo" role="button"
-                       data-bs-toggle="dropdown" aria-expanded="false" target="{{.Params.Target}}"
-                       href="{{.URL}}">{{.Title}}</a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarWhatWeDo">
-                        {{ range .Children }}
-                        <li><a class="dropdown-item" href="{{.URL}}">{{.Title}}</a></li>
-                        {{ end }}
-                    </ul>
-                </li>
-                {{ else }}
+                {{ if eq .Params.Underline false}}
+                {{ $active = "" }}
+                {{ end }}
                 <li class="nav-item">
                     <a class="nav-link top_menu_item {{$active}} {{ .Params.Style }}" href="{{.URL}}"
                        target="{{.Params.Target}}">{{ .Title }}</a>
                 </li>
-                {{ end }}
                 {{ end }}
             </ul>
         </div>
