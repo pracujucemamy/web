@@ -8,14 +8,14 @@ date= 2021-05-05T07:00:00Z
 +++
 
 Diskusie v slovenskom pracovno-právnom rámci, ktoré sa otvárajú okolo potreby zavádzania vyššieho počtu skrátených pracovných úväzkov,
-zatiaľ úplne opomínajú tému tzv. job sharingu, teda zdieľania jedného plno úväzkového pracovného miesta dvoma alebo viacerými zamestnancami.
+zatiaľ úplne opomínajú tému tzv. **job sharingu**, teda **zdieľania jedného** plno úväzkového **pracovného miesta dvoma alebo viacerými zamestnancami.**
 <!--more-->
 Ide pritom o riešenie, ktoré elegantne prepája potrebu zamestnávateľa po výkone z plného úväzku a aktuálne potreby zamestnancov v oblasti work life balance. 
 
 ## Pracovnoprávne riešenie Job Sharingu
 
 Delené pracovné miesto vytvoríte tak, že s každou zo zúčastnených strán v prvom rade spíšete pracovnú zmluvu na skrátený úväzok. 
-Následne s nimi podpíšete dohodu o pridelenie na zdieľané pracovné miesto. Výhodou pre vás ako zamestnávateľa je, že si zamestnanci zdieľajúci jednu 
+Následne s nimi podpíšete [dohodu o pridelenie na zdieľané pracovné miesto](https://www.podnikajte.sk/pracovne-pravo-bozp/delene-pracovne-miesto-vzor-dohody). Výhodou pre vás ako zamestnávateľa je, že si zamestnanci zdieľajúci jednu 
 pozíciu koordinujú činnosti medzi sebou, predstavujú pre vás jeden celok. 
 
 Ak sa rozhodnete pre dve samostatné zmluvy na skrátený úväzok a nebudete ďalej riešiť dohodu o pridelení na zdieľané miesto, je to z pracovnoprávneho pohľadu
@@ -47,7 +47,7 @@ Zvýšené náklady sa ale môžu prejaviť v materiálnom zabezpečení, tzn. n
 
 V prvom rade bude potrebné rozhodnúť, aký model rozdelenia práce je pre konkrétnu pozíciu vhodný. Keď je reč o job sharingu, väčšina ľudí si predstaví rozdelenie pracovnej doby na dva úväzky: každý po štyri hodiny s tým, že pracovná náplň zostáva rovnaká pre oboch partnerov. 
 
-Podľa Joan Williams, profesorky práva na University of Carolina a zakladateľky Center of WorkLife Law je možné prakticky akúkoľvek pozíciu rozdeliť. Dôležité je pritom brať do úvahy povahu práce a nastaviť vyhovujúci model. Vyššie uvedený príklad s rozdelením podľa času sa nazýva dvojičkový (alebo twins) a je považovaný za najjednoduchší. Niektoré zdieľané pozície umožňujú delenie práce na základe prevzatia zodpovednosti za konkrétne úlohy alebo kompetencie. Vtedy ide o tzv. ostrovný model. 
+Podľa [Joan Williams](https://www.uchastings.edu/people/joan-williams/), profesorky práva na University of Carolina a zakladateľky [Center of WorkLife Law](https://worklifelaw.org/) je možné prakticky akúkoľvek pozíciu rozdeliť. Dôležité je pritom brať do úvahy povahu práce a [nastaviť vyhovujúci model](https://hbr.org/2013/09/how-to-make-a-job-sharing-situation-work). Vyššie uvedený príklad s rozdelením podľa času sa nazýva dvojičkový (alebo twins) a je považovaný za najjednoduchší. Niektoré zdieľané pozície umožňujú delenie práce na základe prevzatia zodpovednosti za konkrétne úlohy alebo kompetencie. Vtedy ide o tzv. ostrovný model. 
 
 Po dohodnutí modelu spolupráce nastavte spoločne ďalšie parametre vzájomnej spolupráce. Tie najdôležitejšie sú tu:
 
