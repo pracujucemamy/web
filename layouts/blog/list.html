@@ -11,8 +11,10 @@
             <a href="{{ .RelPermalink  }}" class="link fw-bold">Čítaj viac ➔</a>
         </div>
         <div class="col-md-5 align-self-end">
-            {{ if (path.Join .File.Dir "/image.png" | fileExists) }}
-            <img src="{{ .Permalink }}/image.png" class="img-fluid image_offset_down_right">
+            {{ if (path.Join .File.Dir "/image.jpg" | fileExists) }}
+            <img src="{{ .Permalink }}/image.jpg" class="img-fluid image_offset_down_right">
+            {{ else if (path.Join .File.Dir "/image.jpg" | fileExists) }}
+            <img src="{{ .Permalink }}/image.jpg" class="img-fluid image_offset_down_right">
             {{ else }}
             <img src="image.png" class="img-fluid image_offset_down_right">
             {{ end }}
@@ -32,6 +34,8 @@
             <div class="col-md-5 order-md-first align-self-end">
                 {{ if (path.Join .File.Dir "/image.png" | fileExists) }}
                 <img src="{{ .Permalink }}/image.png" class="img-fluid float-end image_offset_down">
+                {{ else if (path.Join .File.Dir "/image.jpg" | fileExists) }}
+                <img src="{{ .Permalink }}/image.jpg" class="img-fluid float-end image_offset_down">
                 {{ else }}
                 <img src="image.png" class="img-fluid float-end image_offset_down">
                 {{ end }}
