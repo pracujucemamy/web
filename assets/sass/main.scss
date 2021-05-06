@@ -97,7 +97,7 @@ h4 {
 }
 
 
-p, li {
+p, li, .btn-lg, .btn {
   font-style: normal;
   font-weight: 300;
   font-size: 1.125rem;
@@ -121,24 +121,6 @@ strong {
     color: $primary !important;
     margin: 0;
     padding: 0;
-  }
-
-  a#navbarWhatWeDo.nav-link.dropdown-toggle:active,
-  a#navbarWhatWeDo.nav-link.dropdown-toggle:focus {
-    outline: 0;
-  }
-
-  .dropdown-menu {
-    background-color: $primary;
-  }
-
-  .dropdown-item {
-    color: #FFFFFF;
-  }
-
-  .dropdown-menu a:hover {
-    color: $warning;
-    background-color: $primary;
   }
 }
 
