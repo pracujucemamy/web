@@ -97,12 +97,19 @@ h4 {
 }
 
 
-p, li, .btn-lg, .btn {
+p, li {
   font-style: normal;
   font-weight: 300;
   font-size: 1.125rem;
   line-height: 1.75rem;
   color: $primary;
+}
+
+.btn-lg, .btn {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
 }
 
 strong {
