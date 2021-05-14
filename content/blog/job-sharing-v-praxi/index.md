@@ -23,11 +23,11 @@ Kristína Bergmann
 <li>Slovenka žijúca vo Švajčiarsku
 <li>S manželom pochádzajúcim z Nemecka vychovávajú 2-ročného syna
 <li>Vyštudovala Hotelovú akadémiu a následne Manažment kultúry a turizmu v Nitre
-<li>Po štúdiách odišla do Švajčiarska, ktoré poznala už z letných praxí v hotelových reštauráciách
-<li>Kedže ju gastronómia prestala napĺňať, zapísala si kurzy v oblasti asistencie predaja a marketingu
-<li>Od roku 2014 pracuje v elektrárni Kraftwerke Oberhhasli AG, najskôr na pozícií administrátorky v archíve, neskôr ako asistentka predaja a marketingu
+<li>Po štúdiách odišla do Švajčiarska, ktoré poznala už z letných praxí a jobov v hotelových reštauráciách
+<li>Kedže ju gastronómia prestala napĺňať, spravila si vyššie odborné vzdelanie v oblasti predaja a marketingu
+<li>Od roku 2014 pracuje vo vodných elektrárňach Kraftwerke Oberhasli AG, najskôr na pozícií administrátorky v archíve, neskôr ako asistentka predaja a marketingu
 <li>Po 16-týždňovej materskej dovolenke v roku 2018 sa do práce vrátila na 40 % úväzok na zdieľané pracovné miesto
-<li>Vo voľnom čase pôsobí ako inštuktorka Zumby
+<li>Vo voľnom čase pôsobí ako inštruktorka Zumby
 </ul>
 </div>
 <div class="col-3"><img src="face.png" class="img-fluid rounded-circle">
