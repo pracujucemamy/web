@@ -92,7 +92,7 @@ pracovného úväzku**, každá z dám má však aj svoju unikátnu agendu.
 Táto pracovná pozícia bola v minulosti klasickým plnoúväzkovým pracovným miestom. Po návrate Kristíny sa zmenila na
 pracovné miesto zdieľané troma mamami. Kolegyne medzi sebou zdieľajú aj spoločnú agendu, každá má ale aj svoju vlastnú
 špecializáciu. Kristína sa takto venuje marketingu, ostatné dve kolegyne si podelili agendu predaja a fakturácie. Celý
-**systém fungovania si vybudovali samé**, spolupracujú takto už dva roky a postupným vylepšovaní detailov sa dobre zladili.
+**systém fungovania si vybudovali samé**, spolupracujú takto už dva roky a postupným vylepšovaním detailov sa dobre zladili.
 
 Nadriadený už od začiatku vyžadoval, aby sa kolegyne **navzájom vedeli zastúpiť** v prípade chorôb alebo dovoleniek. V
 krízových situáciách by ich vedel zastúpiť aj priamo on, doteraz však takáto situácia nenastala.
