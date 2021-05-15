@@ -9,7 +9,7 @@ date= 2021-05-15T07:00:00Z
 
 Prečítali ste si nedávno náš článok o job-sharingu a rozmýšľate, ako by to mohlo vyzerať v praxi? Prinášame vám
 konkrétny príklad úspešnej mamy, ktorá takouto formou pracuje. Kristína Bergmann žije vo svojou rodinou vo Švajčiarsku a
-pracuje v spoločnosti Krafwerde Oberhhasli AG ako asistentka predaja a marketingu. Na tejto pozícií spolupracuje v rámci
+pracuje v spoločnosti Krafwerde Oberhasli AG ako asistentka predaja a marketingu. Na tejto pozícií spolupracuje v rámci
 job sharingu s ďalšími dvoma mamami.
 <!--more-->
 
