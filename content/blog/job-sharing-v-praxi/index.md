@@ -71,13 +71,13 @@ pracovného úväzku**, každá z dám má však aj svoju unikátnu agendu.
 <td class="text-primary">Utorok</td><td colspan="19" class="table-primary">Kolegyňa 1</td><td></td>
 </tr>
 <tr>
-<td class="text-primary" rowspan="2">Streda</td><td></td><td colspan="18" class="table-success">Kolegyňa 2</td><td></td>
+<td class="text-primary" rowspan="2">Streda</td><td colspan="2"></td><td colspan="17" class="table-success">Kolegyňa 2</td><td></td>
 </tr>
 <tr>
 <td colspan="18" class="table-warning">Kristína</td><td colspan="2"></td>
 </tr>
 <tr>
-<td class="text-primary" rowspan="2">Štvrtok</td><td></td><td colspan="18" class="table-success">Kolegyňa 2</td><td></td>
+<td class="text-primary" rowspan="2">Štvrtok</td><td colspan="2"></td><td colspan="17" class="table-success">Kolegyňa 2</td><td></td>
 </tr>
 <tr>
 <td colspan="18" class="table-warning">Kristína</td><td colspan="2"></td>
