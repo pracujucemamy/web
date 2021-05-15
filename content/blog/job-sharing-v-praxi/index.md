@@ -3,7 +3,7 @@
 author= "Elena Gemzová"
 title= "Job sharing v praxi"
 slug= "job-sharing-v-praxi"
-date= 2021-05-14T12:00:00Z
+date= 2021-05-15T07:00:00Z
 
 +++
 
