@@ -8,8 +8,8 @@ date= 2021-05-15T07:00:00Z
 +++
 
 Prečítali ste si nedávno náš článok o job-sharingu a rozmýšľate, ako by to mohlo vyzerať v praxi? Prinášame vám
-konkrétny príklad úspešnej mamy, ktorá takouto formou pracuje. Kristína Bergmann žije vo svojou rodinou vo Švajčiarsku a
-pracuje v spoločnosti Krafwerde Oberhasli AG ako asistentka predaja a marketingu. Na tejto pozícií spolupracuje v rámci
+konkrétny príklad úspešnej mamy, ktorá takouto formou pracuje. Kristína Bergmann žije so svojou rodinou vo Švajčiarsku a
+pracuje v spoločnosti Krafwerde Oberhasli AG ako asistentka predaja a marketingu pre ich externé služby pod značkou Grimsel Hydro. Na tejto pozícií spolupracuje v rámci
 job sharingu s ďalšími dvoma mamami.
 <!--more-->
 
@@ -108,8 +108,7 @@ niečím nevedia rady, dohodnú si míting so šéfom a ten im pomáha nájsť r
 ## Prečo je job sharing obľúbený v zahraničí
 
 Ako Kristína hovorí, počas dvoch dní v práci vie toho stihnúť veľmi veľa. Má čistú hlavu, je oddýchnutá a pracuje
-efektívne. Je to taká nepísaná pravda aj v ich firme - zamestnanci pracujúci na job sharingu podávajú oveľa lepšie
-výkony ako zamestnanci, ktorí pracujú full-time.
+efektívne. Zamestnanci pracujuci na ciastocny uväzok majú kvalitný, vyvážený work-life-balance, co ich dokáže motivovať k lepším výkonom.
 
 {{< image src="img2.png" >}}
 
