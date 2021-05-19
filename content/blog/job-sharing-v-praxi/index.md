@@ -108,7 +108,7 @@ niečím nevedia rady, dohodnú si míting so šéfom a ten im pomáha nájsť r
 ## Prečo je job sharing obľúbený v zahraničí
 
 Ako Kristína hovorí, počas dvoch dní v práci vie toho stihnúť veľmi veľa. Má čistú hlavu, je oddýchnutá a pracuje
-efektívne. Zamestnanci pracujuci na ciastocny uväzok majú kvalitný, vyvážený work-life-balance, co ich dokáže motivovať k lepším výkonom.
+efektívne. Zamestnanci pracujúci na ciastocny uväzok majú kvalitný, vyvážený work-life-balance, co ich dokáže motivovať k lepším výkonom.
 
 {{< image src="img2.png" >}}
 
