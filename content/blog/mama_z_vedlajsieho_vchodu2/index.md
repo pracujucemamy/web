@@ -63,7 +63,7 @@ z prechádzky s plačúcim dieťaťom, keď na neho príde nekompromisný hlad, 
 Predstavila som si, že podobných zdanlivo zúfalých situácií zažíva aj veľa iných mám a tiež im chýba v ponuke oblečenie, v ktorom sa budú cítiť žensky, 
 no zároveň bude pre nich praktické a budú môcť dojčiť svoje dieťatko diskrétne kdekoľvek a kedykoľvek to budú potrebovať.  
 
-{{< image src="terkatothovajpg.jpg" >}}
+{{< image src="terkatothovajpg.jpg" width="480">}}
 
 ## Ak sa ešte vrátime k tvojej pôvodnej práci. Bavila ťa práca ktorú si robila na Univerzite, našla si sa v nej? Ako ti pomohla, ak vôbec, pri rozhodnutí ísť do projektu Beauty Mutti?
 
