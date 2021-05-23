@@ -3,7 +3,7 @@
 author= "Zuzana Babíková"
 title= "Séria rozhovorov s mamami z&nbsp;vedľajšieho vchodu - časť II."
 slug= "mama-z-vedlajsieho-vchodu-cast-II."
-date= 2021-05-25T07:00:00Z
+date= 2021-05-23T07:00:00Z
 
 +++
 **Terka Tóthová. Pracuje na Rektoráte UK. V súčasnosti je na materskej, počas ktorej založila projekt Beauty Mutti.
