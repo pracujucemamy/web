@@ -109,8 +109,12 @@ dobrú skúsenosť.
 Je to lepšie ako na začiatku. Aj to sa učím. Prvé dni boli ťažké, pretože som si brávala všetky zážitky z nemocnice
 domov, v noci rozmýšľala nad pacientmi a novou terminológiou. Je to pre mňa tiež nová skúsenosť. Keď mám pocit, že mi to
 prerastá cez hlavu, snažím sa nájsť si čas pre seba - dopriať si kávu a rozhovor s kamoškami, kozmetiku, wellness deň. V
-súčasnosti je to síce do veľkej miery obmedzené, ale využívam aspoň to, čo sa dá. Aké máš plány do budúcnosti? Zatiaľ
-žiadne, dávam tomu čas, kým sa trošku zoznámim a zabehnem. Po roku by som mala prejsť na interné oddelenie a začať
+súčasnosti je to síce do veľkej miery obmedzené, ale využívam aspoň to, čo sa dá. 
+
+
+## Aké máš plány do budúcnosti? 
+
+Zatiaľ žiadne, dávam tomu čas, kým sa trošku zoznámim a zabehnem. Po roku by som mala prejsť na interné oddelenie a začať
 kolotoč atestácií. Momentálne ale cítim, že by ma to skôr ťahalo do ambulancie, robiť všeobecného lekára. Nemocničné
 prostredie asi nebude z dlhodobého hľadiska pre mňa to pravé orechové. V každom prípade, musím byť trpezlivá a počkať,
 čo mi čas prinesie.
