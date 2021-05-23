@@ -53,7 +53,7 @@ S príchodom prvej dcérky som začala vyvíjať a realizovať aj vlastný proje
  
 ## Povedz nám o svojom projekte. Čo ťa motivovalo rozbehnúť niečo vlastné?
 
-Projekt Beauty Mutti sa zrodil v mojej hlave, keď sa narodila prvá dcéra a ja som ju po nociach dlhé hodiny dojčila. V tom čase bolo leto a ja som bola 
+Projekt [Beauty Mutti](https://www.beautymutti.sk/) sa zrodil v mojej hlave, keď sa narodila prvá dcéra a ja som ju po nociach dlhé hodiny dojčila. V tom čase bolo leto a ja som bola 
 nesvoja, že som mala plnú skriňu pekných šiat, ktoré som si nemohla obliecť, nakoľko to bolo pri dojčení nepraktické. Predstava, že by som trávila dni iba 
 v teplákoch a vyťahaných tričkách, bola pre mňa odstrašujúca. Ponuka trhu s oblečením pre dojčiace ženy pred piatimi rokmi však bola značne obmedzená. Túžila 
 som si obliecť niečo, v čom by som sa cítila príjemne, žensky, no zároveň by to bolo v tom čase pre mňa aj funkčné a praktické.
