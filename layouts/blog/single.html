@@ -4,7 +4,7 @@
     <div class="row">
         <div class="offset-md-2 col-md-8">
             <div class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</div>
-            <h1>{{.Title}}</h1>
+            <h1>{{.Title | safeHTML}}</h1>
             <div>
             {{ .Content }}
             </div>

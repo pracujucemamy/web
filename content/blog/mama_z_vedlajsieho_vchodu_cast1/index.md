@@ -26,6 +26,8 @@ Musím povedať, že áno! Síce mi v tejto sfére vo veľkej miere pomohol môj
 Bavilo ma, ako správnu bifľu, tráviť čas v knižnici a “vŕtať” sa v knihách. Na druhej strane som si ale hlavne po materskej uvedomila, že práve materstvo
 považujem za môj splnený sen a veľké poslanie. 
 
+{{< image src="miska_2.jpeg" >}}
+
 ## S akými očakávaniami si išla na materskú dovolenku? Tešila si sa? Aké obavy si mala? 
 
 Ja som sa na materskú dovolenku tešila! Aj napriek tomu, že som po škole pracovala necelý rok a práca ma bavila, vízia zmeny a detí mi prišla veľmi lákavá. 
@@ -94,6 +96,7 @@ deje v upravenom režime. Stále si pripadám trošku ako Alica v krajine zázra
 Trpezlivo ma zaškolujú do jednotlivých programov, systémov a viem, že sa na nich naozaj môžem obrátiť. Veľkou oporou je aj manžel, ktorý momentálne pomáha 
 s varením, domácimi prácami a úlohami pre deti. 
 
+{{< image src="miska_1.jpeg" >}}
 
 ## Zmenil sa pohľad na tvoju kariéru počas materskej dovolenky? Je niečo, čo by si teraz urobila inak? 
 

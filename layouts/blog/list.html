@@ -6,7 +6,7 @@
     <div class="row justify-content-between">
         <div class="col-md-6 align-self-center pb-3 pt-5">
             <p class="date">{{ .Date.Format "02.01.2006" }} | {{ .Params.Author }}</p>
-            <h1>{{ .Title }}</h1>
+            <h1>{{ .Title | safeHTML }}</h1>
             {{ .Summary }}
             <a href="{{ .RelPermalink  }}" class="link fw-bold">Čítaj viac ➔</a>
         </div>
