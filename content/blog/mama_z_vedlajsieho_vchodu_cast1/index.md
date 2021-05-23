@@ -65,7 +65,7 @@ som ukončila a opäť sa vrátila na materskú dovolenku do zabehnutých koľaj
 Áno, ja som mala veľmi dobrú partiu mám, s ktorou sme trávili veľa času, rozprávali sa, zdieľali všetky radosti aj
 starosti. To bola pre mňa psychohygiena. Samozrejme, boli lepšie aj horšie obdobia, pri 4 deťoch je človek v pohybe
 stále, ale zažíva s nimi aj veľa srandy. Veľa mi pomáhal aj manžel a rodina, vďaka čomu som si vedela “ukradnúť” trošku
-času pre seba. Samozrejme som si občas dopriala aj kozmetiku čo wellness.
+času pre seba. Samozrejme som si občas dopriala aj kozmetiku či wellness.
 
 ## Čo bola najväčšia výzva v kariérnom kontexte, ktorý si riešila počas alebo po materskej? Ako si sa udržiavala v “kondícii” v súvislosti s profesiou počas materskej dovolenky?
 
