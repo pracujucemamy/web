@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: HUGO_PARAMS_BETA=true hugo --minify -b https://beta.pracujucemamy.sk
+        run: HUGO_PARAMS_BETA=true hugo --minify -b https://beta.pracujucemamy.sk --buildFuture
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
