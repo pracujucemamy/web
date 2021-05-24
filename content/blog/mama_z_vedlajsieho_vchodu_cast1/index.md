@@ -1,6 +1,6 @@
 +++
 
-author= "Zuzana Babíková"
+author= "Zuzana Martišková"
 title= "Séria rozhovorov s mamami z&nbsp;vedľajšieho vchodu - časť I."
 slug= "mama-z-vedlajsieho-vchodu-cast-I."
 date= 2021-05-23T07:00:00Z
