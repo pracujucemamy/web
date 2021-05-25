@@ -8,7 +8,7 @@ date= 2021-05-28T10:00:00Z
 +++
 **Elena Gemzová. Počas materskej naštartovala svoju copywriterskú kariéru.
 Dnes má za sebou veľa spokojných klientov.
-Píše aj pre Pracujúce mamy. .**
+Píše aj pre Pracujúce mamy. **
 
 *Prinášame vám rozhovory s inšpiratívnymi mamami, ktoré možno z&nbsp;videnia poznáte z&nbsp;vedľajšieho vchodu alebo z ihriska.*
 
