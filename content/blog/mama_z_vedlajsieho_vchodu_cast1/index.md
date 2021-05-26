@@ -2,8 +2,12 @@
 
 author= "Zuzana Martišková"
 title= "Séria rozhovorov s mamami z&nbsp;vedľajšieho vchodu - časť I."
-slug= "mama-z-vedlajsieho-vchodu-cast-I."
+slug= "mama-z-vedlajsieho-vchodu-cast-1"
 date= 2021-05-23T07:00:00Z
+
+aliases = [
+"/blog/mama-z-vedlajsieho-vchodu-cast-i."
+]
 
 +++
 **Miška Jakubová. Doktorka, ktorá bola 12 rokov na materskej. Do práce sa vrátila v čase pandémie.**

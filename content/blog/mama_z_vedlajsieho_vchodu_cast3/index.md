@@ -2,7 +2,7 @@
 
 author= "Terézia Miháliková"
 title= "Séria rozhovorov s mamami z&nbsp;vedľajšieho vchodu - časť III."
-slug= "mama-z-vedlajsieho-vchodu-cast-III."
+slug= "mama-z-vedlajsieho-vchodu-cast-3"
 date= 2021-05-28T10:00:00Z
 
 +++
