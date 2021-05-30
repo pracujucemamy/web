@@ -35,6 +35,8 @@ Ja som bola presvedčená o tom, že budem akčná mama, ktorá sa nenechá “p
 vyčerpávalo a zistili sme, že musíme poľaviť a určitú dobu venovať čas naplno dieťaťu. Syn Dominik sa nám narodil po dvoch rokov od Karolínky a potvrdilo sa 
 nám, že cestovanie a záľuby sa budú musieť na čas prispôsobiť. 
 
+{{< image src="fotkaela.jpg" width="480">}}
+
 ## Ako prebiehala materská a ako dlho si na nej bola?
 
 Spolu som bola na materskej asi 4 roky, najprv sa nám narodila Karolínka a po dvoch rokoch Dominik. Prvý rok sme sa zľaďovali. Keď mal syn asi rok, situácia sa 
@@ -55,7 +57,6 @@ tomu som sa mohla učiť.
 
 Páči sa mi, že pri písaní dávam myšlienkam jasnejšiu štruktúru a orientáciu. Zároveň v dobre napísanom texte sa dá veľmi účinne pracovať s emóciami, čo určite dobre poznáte, ak čítate knihy :). Aj keď sa dnes množstvo obsahu presúva do podcastovej alebo video podoby, text má stále svoje významné miesto. Dá sa k nemu poľahky vracať, robiť si v ňom poznámky, zachytávať konkrétnosti a detaily, ktoré si v prehratom obsahu často ani nevšimnete. 
 
-{{< image src="fotkaela.jpg" width="480">}}
 
 ## Koľko času si venovala svojmu “sebarozvoju” a práci počas materskej? 
 
