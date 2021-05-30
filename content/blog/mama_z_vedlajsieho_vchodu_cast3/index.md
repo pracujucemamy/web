@@ -55,6 +55,8 @@ tomu som sa mohla učiť.
 
 Páči sa mi, že pri písaní dávam myšlienkam jasnejšiu štruktúru a orientáciu. Zároveň v dobre napísanom texte sa dá veľmi účinne pracovať s emóciami, čo určite dobre poznáte, ak čítate knihy :). Aj keď sa dnes množstvo obsahu presúva do podcastovej alebo video podoby, text má stále svoje významné miesto. Dá sa k nemu poľahky vracať, robiť si v ňom poznámky, zachytávať konkrétnosti a detaily, ktoré si v prehratom obsahu často ani nevšimnete. 
 
+{{< image src="fotkaela.jpg" width="480">}}
+
 ## Koľko času si venovala svojmu “sebarozvoju” a práci počas materskej? 
 
 Na začiatku to bolo pár hodín do týždňa, záviselo od situácie. Prvú zákazku na copywriting som dostala, keď mal Dominik jeden rok. 
