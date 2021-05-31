@@ -71,7 +71,7 @@ bolo tak, že keď deti spali, ja som išla tiež, ak sa dalo :-).
 ## Čo bola v kariérnom kontexte najväčšia výzva, ktorú si riešila počas alebo po materskej?
 
 Ako pracovať, alebo aj nejakým spôsobom kariérne rásť, a zároveň “neošidiť” deti. Vždy, keď som si čítala podnikateľské príbehy o úspešným mamách, vyskočila mi
-tam otázka, že koľko potom majú čas venovať sa deťom. Aj ja som to riešila - nájsť balance v tom, aby som mohla kariérne rásť a zároveň mala čas na svoje deti. 
+tam otázka, že koľko potom majú čas venovať sa deťom. Aj ja som to riešila - nájsť balans v tom, aby som mohla kariérne rásť a zároveň mala čas na svoje deti. 
 
 
 ## Ako si pristupovala k tejto výzve a čo ti pomáhalo?
@@ -100,7 +100,7 @@ Vyhovuje mi práca, ktorú viem robiť aj z domu a môžem si ju sama manažova�
 Klasický full time 9 - 5 s cestovaním hodinu až dve denne pre mňa teraz nie je voľbou číslo jedna.
 
 
-## Čo by si odkázala ďalším mamám, pre ktoré je balanc medzi rodičovstvom a sebarozvojom dôležitý?
+## Čo by si odkázala ďalším mamám, pre ktoré je balans medzi rodičovstvom a sebarozvojom dôležitý?
 
 Keď sa niečo chce, tak sa to dá, aj keď to vyzerá byť veľmi náročné. Je dobré naučiť sa na seba netlačiť a nečakať, že veci budú rýchlo a hneď. Nečakať od seba, že
 budem super mama a zároveň hneď super podnikateľka. Veci sa dajú realizovať, ale zároveň to vyžaduje svoje tempo a čas.  
