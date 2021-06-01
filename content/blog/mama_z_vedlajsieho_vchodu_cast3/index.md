@@ -39,7 +39,7 @@ nám, že cestovanie a záľuby sa budú musieť na čas prispôsobiť.
 
 ## Ako prebiehala materská a ako dlho si na nej bola?
 
-Spolu som bola na materskej asi 4 roky, najprv sa nám narodila Karolínka a po dvoch rokoch Dominik. Prvý rok sme sa zľaďovali. Keď mal syn asi rok, situácia sa 
+Spolu som bola na materskej asi 4 roky, najprv sa nám narodila Karolínka a po dvoch rokoch Dominik. Prvý rok sme sa zlaďovali. Keď mal syn asi rok, situácia sa 
 nám trochu ustálila a ja som začala mať priestor aj na sebarozvoj. Začala som si študovať veci: brala som to tak, že kaviareň bude potrebovať marketing, potom 
 bude treba písať texty. Štúdium týchto dvoch vecí ma zamestnávalo a postupne som pri nich ostala.
 
