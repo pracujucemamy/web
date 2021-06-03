@@ -41,6 +41,7 @@ Keď si spomeniem na svoje pracovné začiatky, po škole som vystriedala pár z
 
 Musím povedať, že áno. Po prvom ošiali v súvislosti s materstvom som nadobudla pocit, že by som sa chcela realizovať a trošku si mentálne oddýchnuť. Po tej fyzickej stránke som sa cítila dosť vyčerpaná, tak som si povedala, že sa budem sústrediť trošku na duševný rozvoj. Vtedy som si dopriala čas pre seba vo forme večerného čítania kníh. To bol pre mňa perfektný relax. Po narodení druhého dieťaťa som dostala chuť robiť aj niečo kreatívne, tak som si založila vlastný projekt Buubli, čo je vlastne eshop s handmade dizajnovými sponkami, čelenkami a doplnkami pre deti.  
 
+{{< image src="fotkakatka.jpeg" width="480">}}
 
 ## Povedz nám viac o tomto projekte. Kedy a ako vznikla táto myšlienka?
 
