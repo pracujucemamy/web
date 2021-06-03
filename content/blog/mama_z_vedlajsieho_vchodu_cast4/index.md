@@ -7,7 +7,7 @@ date= 2021-06-04T08:00:00Z
 
 +++
 **Katka Luknárová. Projektová manažérka, ktorá počas materskej založila projekt Buubli.
-Po materskej pokračuje v svojej IT kariére.**
+Po materskej pokračuje vo svojej IT kariére.**
 
 *Prinášame vám rozhovory s inšpiratívnymi mamami, ktoré možno z&nbsp;videnia poznáte z&nbsp;vedľajšieho vchodu alebo z ihriska.*
 
