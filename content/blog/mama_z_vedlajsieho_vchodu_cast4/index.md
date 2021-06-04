@@ -55,7 +55,6 @@ Veľmi ma baví celý proces, od samotnej výroby doplnkov, cez programovanie m�
 Bola to pre mňa psychohygiena a koníček. Časom som začala cítiť, že ak som sa dostala do stresu, čisto kreatívna práca mi ako psychohygiena prestala stačiť. Začala som sa teda venovať aj športu, to bola druhá oblasť, v ktorej som si našla čas pre seba. Hlavne sa to všetko odohrávalo už v čase, kedy sme sa pri deťoch už s manželom mohli prestriedať a dopriať jeden druhému čas. Projekt s e-shopom už teda nebol jedinou činnosťou, ktorej som sa vo voľnom čase venovala. 
 
 Po skončení materskej dovolenky a nástupe do mojej pôvodnej práce som si povedala, že sa chcem naplno venovať práci a tiež rodine, preto som od e-shopu upustila. Aktuálne je projekt teda v takom stand-by režime. 
-
 *(Pozn. red.: rozhovor bol realizovaný vo februári 2021. Medzičasom je projekt Buubli opäť aktívny.)*
 
 
