@@ -3,7 +3,7 @@
 author= "Terézia Miháliková"
 title= "Séria rozhovorov s mamami z&nbsp;vedľajšieho vchodu - časť IV."
 slug= "mama-z-vedlajsieho-vchodu-cast-4"
-date= 2021-06-05T08:00:00Z
+date= 2021-06-04T08:00:00Z
 
 +++
 **Katka Luknárová. Projektová manažérka, ktorá počas materskej založila projekt Buubli.
