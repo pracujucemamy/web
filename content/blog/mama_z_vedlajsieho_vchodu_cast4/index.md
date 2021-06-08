@@ -20,7 +20,7 @@ Volám sa Katka, mám dve deti. Vyštudovala som STU v Bratislave, Fakulta infor
 
 ## Čo si má laik predstaviť pod pojmom “projektový manažér”?
 
-Jeho úlohou je postarať sa o vyvinutie softvérového systému, teda aplikácie pre klienta podľa jeho požiadaviek. Celý proces zahŕňa analýzu, vývoj, testovanie, spustenie. Projektový manažér dohliada na všetky tieto fázy, koordinuje ľudi a kontroluje stav jednotlivych uloh. Následne komunikuje s klientom a zabezpečuje dotiahnutie projektu do konca. 
+Jeho úlohou je postarať sa o vyvinutie softvérového systému, teda aplikácie pre klienta podľa jeho požiadaviek. Celý proces zahŕňa analýzu, vývoj, testovanie, spustenie. Projektový manažér dohliada na všetky tieto fázy, koordinuje ľudí a kontroluje stav jednotlivých úloh. Následne komunikuje s klientom a zabezpečuje dotiahnutie projektu do konca. 
 
 
 ## Čo si robila pred materskou dovolenkou? Mala si predstavu, že sa po materskej vrátiš do pôvodnej práce?
