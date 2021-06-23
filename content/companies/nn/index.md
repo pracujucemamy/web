@@ -85,7 +85,3 @@ Ako hovorí Simon Sinek, **manažment nie je zodpovedný za prácu, ale za ľud�
 skutočné potreby zamestnancov môže byť náročné. Niekedy zistíte, že namiesto školenia na nový softvér organizujete
 detský tábor. Že realita je iná ako štatistiky od stola. A práve v tom spočíva príležitosť vybudovať stabilný a zdravý
 kolektív.
-
-**Čím žijú vaši zamestnanci?**
-
-Ak je pre nich náročné skĺbiť prácu a rodinu, máme pre vás pár tipov. 

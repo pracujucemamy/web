@@ -54,7 +54,3 @@ sústredia sa na dôležité veci a dokážu efektívnejšie sledovať konkrétn
 **„Záleží nám na tom, aby sme našim zamestnancom umožnili nájsť rovnováhu medzi pracovným a súkromným životom a tým im
 poskytli aj priestor na odborný rast.“ Dodala Mária Mrážiková.**
 
-**Čím žijú vaši zamestnanci?**
-
-Ak je pre nich náročné skĺbiť prácu a rodinu, máme pre vás pár tipov. 
-

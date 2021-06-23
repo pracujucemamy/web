@@ -70,9 +70,4 @@ krok k nej. Môj odkaz pre všetkých C-level ľudí: **dôverujte, oceňujte, n
 
 Curaprox pracuje s ľuďmi, ktorí sú dobrí vo svojej práci, poznajú firmu, kolegov, značku.
 
-**Čím žijú vaši zamestnanci?**
-{.mt-5}
-
-Ak je pre nich náročné skĺbiť prácu a rodinu, máme pre vás pár tipov. 
-
 

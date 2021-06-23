@@ -78,8 +78,6 @@ kontexte firmy samotnej jej **finančné ukazovatele.**
 
 **Tak čo, sen alebo reálna možnosť?**
 
-**S čím sa v tejto téme stretávate vo vašej firme?**
-Sme samé ucho a čo vieme, o to sa radi podelíme.
 
 
 
