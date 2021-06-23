@@ -55,9 +55,3 @@ Samozrejme, dôležitým faktorom je aj finančná úspora.
 Buďme šťastní pri svojej práci.“**
 Dodala Lucia Tomková.
 
-
-
-**Čím žijú vaši zamestnanci?**
-
-Ak je pre nich náročné skĺbiť prácu a rodinu, máme pre vás pár tipov. 
-
