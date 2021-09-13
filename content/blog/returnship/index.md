@@ -1,71 +1,48 @@
+++++
+
+author= "Elena Gemzová"
+title= "Hľadáte kvalifikovaných zamestnancov? Stavte na returnship program
+"
+slug= "returnship program"
+date= 2021-09-13T07:00:00Z
+
 +++
 
-author= "Terézia Miháliková"
-title= "Čo je returnship program?"
-slug= "returnship"
-date = 2020-01-17T14:15:59-06:00
+Veľkú skupinu profesionálov nájdete medzi ľuďmi, ktorí sa do práce vracajú po kariérnej pauze. Pri správnom nastavení spolupráce dokážete takéhoto človeka pomerne rýchlo  a efektívne integrovať. S minimálnym rizikom a pomerne nízkymi počiatočnými nákladmi tak získate plnohodnotného člena tímu s viacročnými pracovnými skúsenosťami. Ukážeme vám, ako na to.
 
-mtitle = "Objavte Returnship program | Pracujúce mamy"
-mdescription = "Returnship program je stáž pre seniorné talenty. Ideálny nástroj pre nábor špecialistov po kariérnej pauze, ktorý prináša výhody pre “stážistu” aj vašu firmu."
+## Čo je returnship program?
 
-aliases = [
-"/2020/01/17/blogovy-clanok-o-returnshipe/"
-]
-+++
+Ide o **platenú stáž pre dospelých, kvalifikovaných a skúsených ľudí, ktorí sa vracajú po určitom čase do práce**. Najčastejšie ide o ľudí po [kariérnej pauze](https://blog.profesia.sk/ako-vysvetlit-kariernu-pauzu/) z dôvodu rodičovských povinností, starostlivosti o odkázaného člena rodiny či zdravotných dôvodov. 
+Na rozdiel od stáže určenej študentom alebo absolventom je [returnship*](https://www.goldmansachs.com/careers/professionals/returnship/index.html) stáž vyššej úrovne: vhodný pre profesionálov, ktorí pracovnú skúsenosť už majú a pred kariérnou pauzou odpracovali aspoň 3 roky vo svojej profesii. V rámci takéhoto programu ponúkate dočasné (typicky v trvaní 3 až 6 mesiacov) umiestnenie vo vašej spoločnosti s víziou trvalého zamestnania v prípade obojstrannej spokojnosti. 
+Returnship program pritom nie je náhradou skúšobnej doby v pracovnom pomere:
+- paralelne je počas výkonu práce je poskytnutý mentoring aj vzdelávanie
+- pracovné nasadenie postupne vzrastá a ku koncu už pracujú samostatne
+- odmena počas programu je priamo úmerná výkonu (ako počas stáže)
 
-V súčasnej situácii je čoraz ťažšie nájsť kvalifikovaného zamestnanca. Každý zamestnávateľ vie, že o dobrého odborníka
-je veľký záujem. Preto sa hľadajú nové kreatívne spôsoby, ako takých odborníkov nájsť.
-<!--more-->
+Do returnship programu navyše môžete prijať viacero uchádzačov naraz s tým, že po absolvovaní programu máte pre absolventov otvorené určité obmedzené množstvo pracovných miest. Všetci absolventi, ktorí stáž absolvujú, však získajú certifikát či osvedčenie a predovšetkým cennú skúsenosť do svojho životopisu datovanú po kariérnej pauze.
 
-Jedna z možností je tzv. returnship*. Je to platený vyšší level internshipu určený pre profesionálov po kariérnej pauze,
-ktorí mali pred ňou viac ako 3-ročnú pracovnú skúsenosť vo svojej profesii. Spadajú sem najmä ženy po materskej
-dovolenke, ale aj iné osoby, ktoré z rôznych osobných dôvodov zostali niekoľko rokov mimo pracovného prostredia.
 
-Program returnship sprostredkuje dočasné 3-6 mesačné umiestnenie v spoločnosti s víziou trvalého zamestnania v prípade
-obojstrannej spokojnosti po skončení programu.
 
-Dnes si čoraz viac zamestnávateľov začína uvedomovať, že veľká skupina profesionálov je práve medzi ľuďmi, ktorí sú po
-kariérnej pauze. Pri správnom nastavení spolupráce dokážu pomerne rýchlo takéhoto človeka efektívne integrovať a získať
-tým plnohodnotného člena tímu s viacročnými pracovnými skúsenosťami.
+## Ako presne returnship funguje?
 
-## Ako to funguje?
+Nastavenie returnship programu je veľmi podobné ako v prípade internshipu, teda absolventskej či študentskej stáže. Môže mať rôznu dĺžku (spravidla 3 až 6 mesiacov) aj podobu. V rámci returnship programu vytvárate **vracajúcemu sa zamestnancovi priestor na postupné zapracovanie sa do pracovných úloh, mentoring a tréningy, ktoré následne vyhodnocujete**. V prípade spokojnosti a naplnenia obojstranných očakávaní spolupráca pretavíte do pracovného úväzku so zreteľom na úroveň participantovej kvalifikácie. 
 
-Nastavenie returnship programu je veľmi podobné ako v prípade internshipu, môže mať rôznu dĺžku (spravidla 3-6 mesiacov)
-a podobu. Človek s kariérnou pauzou (vracajúci sa zamestnanec) po tento čas pracuje pre danú spoločnosť za vopred
-dohodnutú odmenu.
-
-V rámci returnship programu má vracajúci sa zamestnanec vytvorený priestor na postupné zapracovanie sa do pracovných
-úloh, mentoring a tréningy, ktoré sa následne vyhodnocujú.
-
-Po skončení programu je predpoklad, že v prípade spokojnosti mu bude ponúknutý trvalý pracovný pomer so zreteľom na
-úroveň jeho kvalifikácie.
-
-Aby bol returnship program efektívny, mal by byť stavaný presne na mieru danej spoločnosti. Na základe vzájomnej dohody
-by malo byť vopred jasné, čo sa očakáva od vracajúceho sa zamestnanca. Úspešnosť programu returnship predpokladá, že
-vedúci zamestnanci budú mať informácie o programe a budú postupovať podľa dohodnutého plánu.
-
-Nakoľko je returnship u nás nový pojem, implementovanie programu môže byť výzva.
-
-OZ Pracujúce mamy pomáha s nastavením programu v spoločnostiach tak, aby to bolo výhodné pre všetkých.
+Aby bol returnship program efektívny, potrebujete si ho postaviť **priamo na mieru vašej spoločnosti**. Už v úvode returnship programu vyhotovíte s uchádzačmi dohodu, kde stanovíte **rámcový plán, očakávania a ciele**, ktoré úspešný absolvent programu potrebuje dosiahnuť. Aby bol váš program atraktívny aj pre uchádzačov, definujte okrem spomenutého aj **balík kompetencií, zručností a znalostí, ktoré si z programu odnesú**. A to bez ohľadu na to, či budú alebo nebudú v pracovnom úväzku pokračovať aj po ukončení programu.  
 
 ## Aké sú výhody returnship programu?
 
-* Ľudia po kariérnej pauze sú často nevyužitým zdrojom kvalifikovaného pracovného potenciálu. Program returnship ponúka
-  prístup k tejto cieľovej skupine a tým pomáha dopĺňať talenty na stredných/manažérskych pozíciách.
-* Ľudia po kariérnej pauze si uvedomujú, že majú sťaženú situáciu pri hľadaní práce. Budú si vážiť možnosť vrátiť sa do
-  pracovného procesu, čo môže viesť k zvýšeniu lojality k danej spoločnosti.
-* Efektívny recruitment – využitím returnship programu majú spoločnosti dosť času na posúdenie kvalít zamestnanca, čím
-  sa výrazne eliminuje možnosť nevhodného výberu.
-* Účasťou na returnship programe zamestnávateľ dáva signál, že mu záleží na svojich zamestnancoch a že chce vytvárať
-  pracovné prostredie výhodné pre všetkých. Takýto prístup môže zvyšovať atraktivitu zamestnávateľa aj u ďalších
-  potenciálnych zamestnancov.
-* Hoci program returnship je pre všetkých ľudí po kariérnej pauze, nie je pochýb, že najväčšiu skupinu tvoria práve ženy
-  po materskej dovolenke. Tie sa nachádzajú v najproduktívnejšom veku, no len určitá časť má možnosť pokračovať vo
-  svojej kariére tam, kde pôsobili pred materskou dovolenkou. Program returnship pomáha dopĺňať ženské talenty a
-  podporuje rôznorodosť, čo má pozitívny vplyv na biznis.
-* Podľa výskumu spoločnosti McKinsey firmy so zmiešaným (mužsko-ženským) kolektívom na všetkých úrovniach dosahujú o 15
-  % lepšie výsledky než ich konkurencia v tej istej krajine.
+Najväčšiu skupinu ľudí po kariérnej pauze tvoria [ženy po materskej dovolenke](https://www.forbes.sk/zlepsit-podmienky-pre-pracujucich-rodicov-sa-oplati-flexibilita-je-viac-ako-peniaze/). Tie sa nachádzajú v najproduktívnejšom veku, no len určitá časť má možnosť pokračovať vo svojej kariére tam, kde pôsobili pred materskou dovolenkou. Podľa [výskumu spoločnosti McKinsey](https://www.mckinsey.com/business-functions/organization/our-insights/why-diversity-matters) firmy so zmiešaným (mužsko-ženským) kolektívom na všetkých úrovniach dosahujú o 15 % lepšie výsledky než ich konkurencia v tej istej krajine. Preto vás možno neprekvapí, že jednou z najvýraznejších výhod tohto programu je podpora [diverzity](https://www.pracujucemamy.sk/blog/preco-je-firemna-diverzita-viac-nez-moda/) a ženských talentov a v konečnom výsledku aj váš profit. 
 
-Ako je to u Vás? Vedeli by ste si predstaviť returnship program vo Vašej spoločnosti?
+Medzi [ďalšie výhody returnship programu](https://www.pageexecutive.com/advice/diversity-inclusion/what-are-returnships-and-how-can-they-benefit-businesses) patria tieto:
 
-_Pojem returnship bol registrovaný ako ochranná známka Goldman-Sachs_
+- **Ľudia po kariérnej pauze sú zdrojom kvalifikovaného pracovného potenciálu** - program returnship ponúka prístup k tejto cieľovej skupine a tým pomáha doplniť talenty na stredných/manažérskych pozíciách.
+- **Ľudia po kariérnej pauze sú lojálnejší** - uvedomujú si, že majú sťaženú situáciu pri hľadaní práce a budú si vážiť príležitosť vrátiť sa do pracovného procesu
+- **Efektívny recruitment** – využitím returnship programu máte dosť času na posúdenie kvalít uchádzačov, čím výrazne eliminujete možnosť nevhodného výberu.
+- **Budovanie employer brandingu** - vytváraním príležitostí v rámci  returnship programu dávate signál, že chcete vytvárať pracovné prostredie vhodné pre všetkých. Zvýšite tak vašu [atraktivitu ako zamestnávateľa](https://www.nadaciapontis.sk/novinky/employer-branding-ako-vybudovat-doveryhodnu-znacku-v-ociach-zamestnancov/) aj u ďalších potenciálnych zamestnancov.
+
+Pre úspešný returnship program potrebujete mať ako vedúci zamestnanci celkové aj priebežné informácie o programe a postupovať podľa plánu. Uvedomujeme si, že returnship je u nás nový pojem a jeho implementácia môže byť výzvou. **Máme skúsenosti aj potrebné znalosti: pomôžeme vám s nastavením programu vo vašej spoločnosti tak, aby bol výhodný pre všetkých.**
+
+
+
+
+*Pojem returnship bol registrovaný ako ochranná známka Goldman-Sachs
