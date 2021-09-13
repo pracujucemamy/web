@@ -44,7 +44,4 @@ Medzi [ďalšie výhody returnship programu](https://www.pageexecutive.com/advic
 
 Pre úspešný returnship program potrebujete mať ako vedúci zamestnanci celkové aj priebežné informácie o programe a postupovať podľa plánu. Uvedomujeme si, že returnship je u nás nový pojem a jeho implementácia môže byť výzvou. **Máme skúsenosti aj potrebné znalosti: pomôžeme vám s nastavením programu vo vašej spoločnosti tak, aby bol výhodný pre všetkých.**
 
-
-
-
 *Pojem returnship bol registrovaný ako ochranná známka Goldman-Sachs
