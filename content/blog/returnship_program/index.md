@@ -7,8 +7,10 @@ date= 2021-09-13T07:00:00Z
 
 +++
 
-Veľkú skupinu profesionálov nájdete medzi ľuďmi, ktorí sa do práce vracajú po kariérnej pauze. Pri správnom nastavení spolupráce dokážete takéhoto človeka pomerne rýchlo  a efektívne integrovať. S minimálnym rizikom a pomerne nízkymi počiatočnými nákladmi tak získate plnohodnotného člena tímu s viacročnými pracovnými skúsenosťami. Ukážeme vám, ako na to.
+Veľkú skupinu profesionálov nájdete medzi ľuďmi, ktorí sa do práce vracajú po kariérnej pauze. Pri správnom nastavení spolupráce dokážete takéhoto človeka pomerne rýchlo  a efektívne integrovať. 
 <!--more-->
+S minimálnym rizikom a pomerne nízkymi počiatočnými nákladmi tak získate plnohodnotného člena tímu s viacročnými pracovnými skúsenosťami. Ukážeme vám, ako na to.
+
 
 ## Čo je returnship program?
 
