@@ -17,8 +17,8 @@ S minimálnym rizikom a pomerne nízkymi počiatočnými nákladmi tak získate 
 Ide o **platenú stáž pre dospelých, kvalifikovaných a skúsených ľudí, ktorí sa vracajú po určitom čase do práce**. Najčastejšie ide o ľudí po [kariérnej pauze](https://blog.profesia.sk/ako-vysvetlit-kariernu-pauzu/) z dôvodu rodičovských povinností, starostlivosti o odkázaného člena rodiny či zdravotných dôvodov. 
 Na rozdiel od stáže určenej študentom alebo absolventom je [returnship*](https://www.goldmansachs.com/careers/professionals/returnship/index.html) stáž vyššej úrovne: vhodný pre profesionálov, ktorí pracovnú skúsenosť už majú a pred kariérnou pauzou odpracovali aspoň 3 roky vo svojej profesii. V rámci takéhoto programu ponúkate dočasné (typicky v trvaní 3 až 6 mesiacov) umiestnenie vo vašej spoločnosti s víziou trvalého zamestnania v prípade obojstrannej spokojnosti. 
 Returnship program pritom nie je náhradou skúšobnej doby v pracovnom pomere:
-- paralelne je počas výkonu práce je poskytnutý mentoring aj vzdelávanie
-- pracovné nasadenie postupne vzrastá a ku koncu už pracujú samostatne
+- paralelne je počas výkonu práce poskytnutý mentoring aj vzdelávanie
+- pracovné nasadenie postupne vzrastá a ku koncu už pracujú stážisti samostatne
 - odmena počas programu je priamo úmerná výkonu (ako počas stáže)
 
 Do returnship programu navyše môžete prijať viacero uchádzačov naraz s tým, že po absolvovaní programu máte pre absolventov otvorené určité obmedzené množstvo pracovných miest. Všetci absolventi, ktorí stáž absolvujú, však získajú certifikát či osvedčenie a predovšetkým cennú skúsenosť do svojho životopisu datovanú po kariérnej pauze.
