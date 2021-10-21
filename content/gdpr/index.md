@@ -49,7 +49,7 @@ informácie o týchto službách a možnostiach ochrany vášho súkromia
 ## Kto bude mať prístup k mojim údajom?
 
 Vaše osobné údaje slúžia výlučne pre účely organizácie/vyhodnocovania našich aktivít. Sú dostupné len pre
-spolupracovníkov nášho občianskeho združenia. V prípade, ak bude do organizácie podujatia zahrnutý tretí subjekt, vaše
+spolupracovníkov nášho občianskeho združenia. Nakoľko vedieme účtovníctvo v rámci všeobecne záväzných účtovných predpisov, vaše údaje budú v nevyhnutnej miere poskytnuté aj dodávateľovi účtovných a poradenských služieb. V prípade, ak bude do organizácie podujatia zahrnutý tretí subjekt, vaše
 údaje budú poskytnuté len v nevyhnutnej miere potrebnej na realizáciu tohto podujatia.
 
 ## Ako dlho budete spracovávať moje osobné údaje?
