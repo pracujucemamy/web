@@ -19,7 +19,7 @@ Lojalitu vnímame ako seriózny záujem a zámer zamestnanca dlhodobo pracovať 
 potrebné s firmou vzájomne **budovať jedinečný vzťah**. Ide o vzťah, v ktorom sa vzájomné očakávania stretávajú, sú postavené na recipročnom rešpekte a obe 
 strany komunikujú transparentne a férovo. Vyrovnaný partnerský prístup založený na dôvere je základom. 
 
-Zamestnávateľ rešpektuje, že okrem pracovného má **zamestnanec aj svoj súkromný život, v rámci 
+Zamestnávateľ rešpektuje,pracovného a osobného nap že okrem pracovného má **zamestnanec aj svoj súkromný život, v rámci 
 svojich možností mu vychádza v ústrety a umožňuje mu tak vytvoriť si zdravý work-life balance**. 
 
 **Zamestnanec** na druhej strane **rozumie nárokom a cieľom svojej pracovnej pozície a vykonáva ju tak, aby tieto ciele splnil**. Ak takýto pracovník
@@ -39,7 +39,9 @@ vplyv a nakoľko daná ponuka (flexibilita v pracovnom čase, home office, zní�
 
 Výskum ukázal, že **family friendly ponuku využívali najmä rodičia, ktorí vnímali podporu a pozitívny prístup k benefitom u svojho nadriadeného a v rámci 
 firemnej kultúry**. Práve títo rodičia reportovali lepšiu kvalitu work-life balance. Je to dôsledok minimalizovaných konfliktov medzi 
-prácou a rodinou, zlepšenie zdravia ako i pracovného a osobného naplnenia. 
+prácou a rodinou, zlepšenie zdravia ako i pracovného a osobného naplnenia.
+
+{{< image src="quote.png" >}}
 
 Iná [štúdia](https://www.usu.edu/uwlp/files/briefs/27-flexible-family-friendly-policies-utah-best-places-to-work.pdf) uskutočnená v štáte Utah na vzorke Top 100 najlepšie hodnotených firiem v štáte skúmala **vplyv flexibility a ďalších family-friendly 
 benefitov na spokojnosť a produktivitu zamestnancov**. Medzi najčastejšie sa vyskytujúce firemné benefity patrili:
@@ -52,13 +54,15 @@ Aj v tomto prípade boli **výsledky presvedčivé**: vo viac ako 94 % prípadov
 flexibilitou a prorodinnými benefitmi zvýšili retenciu svojich zamestnancov. V rebríčku prínosov pre firmu ďalej nasledovalo vyššia produktivita a zvýšené 
 pracovné zanietenie:
 
+{{< image src="benefits.png" >}}
+
 Zdroj: [Flexible and Family-Friendly Policies at Utah’s “Best Places to Work”](https://www.usu.edu/uwlp/files/briefs/27-flexible-family-friendly-policies-utah-best-places-to-work.pdf)
 
 Podobných výskumov bolo v zahraničí prevedených niekoľko, pričom každý uvádza pozitívny dopad family-friendly firemného prístupu či už na 
 [lojalitu](https://parentsandcarersatwork.com/parental-leave-on-the-rise-in-family-friendly-companies-but-inequality-at-home-remains-finds-new-us-study/)
 , spokojnosť, [produktivitu](https://www.cairn.info/revue-management-2014-4-page-214.htm?contenu=article) či vyššie pracovné [zanietenie](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245078) zamestnancov. 
 
-
+{{< image src="studies.png" >}}
 
 
 ## Work-life balance pracujúcich mám na Slovensku
@@ -72,7 +76,9 @@ opatrenia však ženy vybrali nasledovné:
 - Práca z domu bez špeciálneho dohadovania a žiadania povolenia vopred
 - Skrátený úväzok, ktorý sa postupne predlžuje
 
-Opatrenia, ktoré zamestnávateľa prakticky **nič nestoja a zároveň prinášajú zisk v podobe  lojálneho zamestnanca**. Ten ocení záujem firmy, ochotu vychádzať svojim ľuďom v ústrety a pomáhať tak zjednodušiť im každodenné fungovanie. 
+Opatrenia, ktoré zamestnávateľa prakticky **nič nestoja a zároveň prinášajú zisk v podobe  lojálneho zamestnanca**. Ten ocení záujem firmy, ochotu vychádzať svojim ľuďom v ústrety a pomáhať tak zjednodušiť im každodenné fungovanie.
+
+{{< image src="graph.png" >}}
 
 Zdroj: [Prieskum o najčastejších potrebách pracujúcich matiek](https://www.pracujucemamy.sk/blog/3-najcastejsie-potreby-matiek/)
 
