@@ -21,7 +21,7 @@ aby bol zamestnanec lojálny, je potrebné s firmou vzájomne **budovať jedine�
 vzájomné očakávania stretávajú, sú postavené na recipročnom rešpekte a obe strany komunikujú transparentne a férovo.
 Vyrovnaný partnerský prístup založený na dôvere je základom.
 
-Zamestnávateľ rešpektuje,pracovného a osobného nap že okrem pracovného má **zamestnanec aj svoj súkromný život, v rámci
+Zamestnávateľ rešpektuje, že okrem pracovného má **zamestnanec aj svoj súkromný život, v rámci
 svojich možností mu vychádza v ústrety a umožňuje mu tak vytvoriť si zdravý work-life balance**.
 
 **Zamestnanec** na druhej strane **rozumie nárokom a cieľom svojej pracovnej pozície a vykonáva ju tak, aby tieto ciele
