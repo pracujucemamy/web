@@ -16,38 +16,39 @@ Ako lojálneho zamestnanca získať? Čo ako zamestnávatelia môžete pre jeho 
 ## Kto je lojálny zamestnanec a dá sa lojalita vybudovať?
 
 Lojalitu vnímame ako seriózny záujem a zámer zamestnanca dlhodobo pracovať u svojho aktuálneho zamestnávateľa. Na to, aby bol zamestnanec lojálny, je 
-potrebné s firmou vzájomne budovať jedinečný vzťah. Ide o vzťah, v ktorom sa vzájomné očakávania stretávajú, sú postavené na recipročnom rešpekte a obe 
+potrebné s firmou vzájomne **budovať jedinečný vzťah**. Ide o vzťah, v ktorom sa vzájomné očakávania stretávajú, sú postavené na recipročnom rešpekte a obe 
 strany komunikujú transparentne a férovo. Vyrovnaný partnerský prístup založený na dôvere je základom. 
 
-Zamestnávateľ rešpektuje, že okrem pracovného má zamestnanec aj svoj súkromný život, v rámci 
-svojich možností mu vychádza v ústrety a umožňuje mu tak vytvoriť si zdravý work-life balance. 
+Zamestnávateľ rešpektuje, že okrem pracovného má **zamestnanec aj svoj súkromný život, v rámci 
+svojich možností mu vychádza v ústrety a umožňuje mu tak vytvoriť si zdravý work-life balance**. 
 
-Zamestnanec na druhej strane rozumie nárokom a cieľom svojej pracovnej pozície a vykonáva ju tak, aby tieto ciele splnil. Ak takýto pracovník
+**Zamestnanec** na druhej strane **rozumie nárokom a cieľom svojej pracovnej pozície a vykonáva ju tak, aby tieto ciele splnil**. Ak takýto pracovník
 vníma ústretové nastavenie firmy, jej ochotu a záujem, odmení sa firme vernosťou a zvýšenou produktivitou. Tá ide ruka v ruke s pracovnou spokojnosťou. 
 
 Mnohé pracujúce mamy s cieľom skĺbenia pracovného a rodinného života jednoducho potrebujú flexibilitu v pracovnom čase, možnosť home officu, skrátený 
-pracovný úväzok či iné, podobne prorodinne nastavené možnosti. Často ide o pracovné benefity, ktoré nie sú spojené s vyššími finančnými nákladmi, no 
-pre zamestnancov majú veľkú hodnotu. Sú to však aj benefity, vďaka ktorým sa zo zamestnanca stáva verný zamestnanec? 
+pracovný úväzok či iné, podobne prorodinne nastavené možnosti. **Často ide o pracovné benefity, ktoré nie sú spojené s vyššími finančnými nákladmi, no 
+pre zamestnancov majú veľkú hodnotu**. Sú to však aj benefity, vďaka ktorým sa zo zamestnanca stáva verný zamestnanec? 
 
 
 ## Využívajú vôbec zamestnanci family friendly benefity? Toto hovoria štúdie
 
-Vedci z talianskej University of Bologna v roku 2019 uskutočnili [štúdiu](https://hbr.org/2019/08/better-work-life-balance-starts-with-managers), ktorej účastníkmi bolo 400 pracujúcich rodičov v Taliansku. 
-Jej cieľom bolo zistiť, do akej miery sú family friendly benefity ponúkané zamestnávateľom pracovníkmi skutočne využívané, čo má na ich využívanie 
+Vedci z talianskej University of Bologna v roku 2019 uskutočnili [štúdiu](https://hbr.org/2019/08/better-work-life-balance-starts-with-managers), ktorej 
+účastníkmi bolo 400 pracujúcich rodičov v Taliansku. 
+Jej **cieľom bolo zistiť, do akej miery sú family friendly benefity ponúkané zamestnávateľom pracovníkmi skutočne využívané**, čo má na ich využívanie 
 vplyv a nakoľko daná ponuka (flexibilita v pracovnom čase, home office, znížený počet pracovných hodín, sabbatical a iné) prispieva k lepšiemu work-life balance.  
 
-Výskum ukázal, že family friendly ponuku využívali najmä rodičia, ktorí vnímali podporu a pozitívny prístup k benefitom u svojho nadriadeného a v rámci 
-firemnej kultúry. Práve títo rodičia reportovali lepšiu kvalitu work-life balance. Je to dôsledok minimalizovaných konfliktov medzi 
+Výskum ukázal, že **family friendly ponuku využívali najmä rodičia, ktorí vnímali podporu a pozitívny prístup k benefitom u svojho nadriadeného a v rámci 
+firemnej kultúry**. Práve títo rodičia reportovali lepšiu kvalitu work-life balance. Je to dôsledok minimalizovaných konfliktov medzi 
 prácou a rodinou, zlepšenie zdravia ako i pracovného a osobného naplnenia. 
 
-Iná [štúdia](https://www.usu.edu/uwlp/files/briefs/27-flexible-family-friendly-policies-utah-best-places-to-work.pdf) uskutočnená v štáte Utah na vzorke Top 100 najlepšie hodnotených firiem v štáte skúmala vplyv flexibility a ďalších family-friendly 
-benefitov na spokojnosť a produktivitu zamestnancov. Medzi najčastejšie sa vyskytujúce firemné benefity patrili:
+Iná [štúdia](https://www.usu.edu/uwlp/files/briefs/27-flexible-family-friendly-policies-utah-best-places-to-work.pdf) uskutočnená v štáte Utah na vzorke Top 100 najlepšie hodnotených firiem v štáte skúmala **vplyv flexibility a ďalších family-friendly 
+benefitov na spokojnosť a produktivitu zamestnancov**. Medzi najčastejšie sa vyskytujúce firemné benefity patrili:
 - flexibilita vo výbere pracovnej lokality
 - flexibilita v pracovnom čase 
 - platená materská dovolenka
 - možnosti skráteného úväzku
 
-Aj v tomto prípade boli výsledky presvedčivé: vo viac ako 94 % prípadov firmy reportovali vyššiu spokojnosť zamestnancov. Necelých 80 % firiem uviedlo, že 
+Aj v tomto prípade boli **výsledky presvedčivé**: vo viac ako 94 % prípadov firmy reportovali vyššiu spokojnosť zamestnancov. Necelých 80 % firiem uviedlo, že 
 flexibilitou a prorodinnými benefitmi zvýšili retenciu svojich zamestnancov. V rebríčku prínosov pre firmu ďalej nasledovalo vyššia produktivita a zvýšené 
 pracovné zanietenie:
 
@@ -63,15 +64,15 @@ Podobných výskumov bolo v zahraničí prevedených niekoľko, pričom každý 
 ## Work-life balance pracujúcich mám na Slovensku
 
 Prvé väčšie prieskumy ukazujú, čo je pre dôležité pre pracujúce matky na Slovensku. [Štúdia](https://www.pracujucemamy.sk/blog/3-najcastejsie-potreby-matiek/) realizovaná s viac ako 630 účastníčkami z celého Slovenska 
-poukázala na dôležitosť opatrení, ktoré by ženám uľahčili kombináciu pracovného a rodinného života. Aj na Slovensku zamestnankyne matky volajú po
-flexibilite, kratších pracovných úväzkoch či ponuke zamestnávateľa priniesť dieťa do práce (napr. formou detského kútika či firemnej škôlky). Medzi TOP 3 
+poukázala na dôležitosť opatrení, ktoré by ženám uľahčili kombináciu pracovného a rodinného života. **Aj na Slovensku zamestnankyne matky volajú po
+flexibilite, kratších pracovných úväzkoch či ponuke zamestnávateľa priniesť dieťa do práce** (napr. formou detského kútika či firemnej škôlky). Medzi TOP 3 
 opatrenia však ženy vybrali nasledovné: 
 
 - Porady v práci v čase, ked je dostupná štandardná starostlivosť o deti
 - Práca z domu bez špeciálneho dohadovania a žiadania povolenia vopred
 - Skrátený úväzok, ktorý sa postupne predlžuje
 
-Opatrenia, ktoré zamestnávateľa prakticky nič nestoja a zároveň prinášajú zisk v podobe  lojálneho zamestnanca. Ten ocení záujem firmy, ochotu vychádzať svojim ľuďom v ústrety a pomáhať tak zjednodušiť im každodenné fungovanie. 
+Opatrenia, ktoré zamestnávateľa prakticky **nič nestoja a zároveň prinášajú zisk v podobe  lojálneho zamestnanca**. Ten ocení záujem firmy, ochotu vychádzať svojim ľuďom v ústrety a pomáhať tak zjednodušiť im každodenné fungovanie. 
 
 Zdroj: [Prieskum o najčastejších potrebách pracujúcich matiek](https://www.pracujucemamy.sk/blog/3-najcastejsie-potreby-matiek/)
 
@@ -83,9 +84,9 @@ Mnohým slovenským rodičom táto situácia pomohla vybrať si v náročnom obd
 ## Flexibilita je dôležitejšia než výška mzdy
 
 [Dáta zozbierané v USA](https://cdn2.hubspot.net/hubfs/5134751/Building%20a%20Better%20Workplace_2018_v06-BrandUpdate%20.pdf) s cieľom zistiť, aké kritériá majú najväčší vplyv na rozhodnutie zamestnanca dlhodobo zotrvať u zamestnávateľa ukazujú, že 83 % 
-pracujúcich matiek je pripravených zmeniť zamestnávateľa, ak majú ponuku inej práce, ktorá viac reflektuje ich želané kritériá. Ženy až v 75 % prípadoch 
+pracujúcich matiek je pripravených zmeniť zamestnávateľa, ak majú ponuku inej práce, ktorá viac reflektuje ich želané kritériá. Ženy až v **75 % prípadoch 
 uvádzajú, že ponuka a podpora flexibility (časovej i lokačnej) na pracovisku je najdôležitejším kritériom pri výbere pracovnej pozície, pričom až 88 % žien 
-vníma flexibilitu ako rovnako dôležitú, ak nie dôležitejšiu, ako platové ohodnotenie. To sú nepochybne dáta s veľkou výpovednou hodnotou. 
+vníma flexibilitu ako rovnako dôležitú, ak nie dôležitejšiu, ako platové ohodnotenie**. To sú nepochybne dáta s veľkou výpovednou hodnotou. 
 
 Chceme pracovať pre organizáciu, ktoré si svojich zamestnancov váži, podporuje ich a v rámci svojich možností sa im snaží vychádzať v ústrety. Nachádzať 
 zdravý balans medzi prácou a rodinou je cieľom azda každého pracujúceho rodiča. A ako ukazujú štúdie realizované v zahraničí, pracujúce mamy sa za to
