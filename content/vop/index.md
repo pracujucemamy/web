@@ -50,6 +50,7 @@ Odoslaním elektronickej Objednávky Klient záväzne potvrdzuje, že sa obozná
 ## 3. DODACIE PODMIENKY
 
 3.1. Dodacie lehoty sú pre rôzne druhy služieb rôzne. Termín dodávky alebo odberu služby, spôsob dodania, miesto a čas poskytnutia služieb bude vždy dohodnutý s Klientom pri overovaní objednávky.
+
 3.2. Vo výnimočných prípadoch, keď niektoré druhy služieb nie je Poskytovateľ schopný poskytnúť,  môže byť dodacia lehota dlhšia.
 
 
@@ -60,7 +61,7 @@ Odoslaním elektronickej Objednávky Klient záväzne potvrdzuje, že sa obozná
 4.2. Klient uhrádza platbu ceny služieb bankovým prevodom na účet Poskytovateľa.
 
 
-5. VYKONANIE A PRIJATIE SLUŽBY 
+## 5. VYKONANIE A PRIJATIE SLUŽBY 
 
 5.1. Poskytovateľ sa zaväzuje službu poskytnúť a Klient sa zaväzuje službu prijať v čase, na mieste a spôsobom dohodnutým pri potvrdení objednávky – uzavretí zmluvy. 
 
