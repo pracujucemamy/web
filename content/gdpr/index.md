@@ -34,7 +34,7 @@ telefónne číslo, názov spoločnosti, IČO, DIČ, IČ DPH, email.
 
 Vaše osobné údaje budeme spracovávať za účelom realizácie vzdelávacích aktivít a nami poskytovaných služieb. Pod pojmom
 realizácie rozumieme e-mailovú, príp. telefonickú komunikáciu potrebnú na uskutočnenie a vyhodnotenie danej vzdelávacej
-aktivity/služby.
+aktivity/služby. Pri bezplatných webinároch dávate súhlas, aby sme vás e-mailom informovali o našich ďalších aktivitách. V každom takomto e-maily je možnosť odvolať svoj súhlas.
 
 ## Používate na vašej stránke súbory Cookies? Analyzujete webové dáta? Čo to pre mňa znamená?
 
