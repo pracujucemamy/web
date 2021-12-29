@@ -85,9 +85,9 @@ písomnou formou na mail info@pracujucemamy.sk, musí obsahovať všetky údaje 
 produktu a Zmluvy.
 
 6.2. V prípade, že Klientovi je poskytovaná služba dlhodobého charakteru a Klient nebude spokojný s kvalitou, môže sa do
-14 dní od začiatku služby dohodnúť s Poskytovateľom na odstúpení od Zmluvy a vrátení zaplatenej ceny služby. Za službu
-dlhodobého charakteru sa považuje služba v trvaní najmenej 90 dní, ktorá ma fixný dátum začiatku a konca uvedený v
-Objednávke.
+7 dní od oficiálneho skončenia kurzu dohodnúť s Poskytovateľom na odstúpení od Zmluvy a vrátení zaplatenej ceny služby, ak sú splnené nasledovné podmienky: klient absolvuje celý kurz, vrátane praktických cvičení a vyplní formulár spätnej väzby, z ktorého vyplynie, že kurz u neho nesplnil svoj účel.
+Za službu dlhodobého charakteru sa považuje kurz v trvaní najmenej 90 dní, ktorá ma fixný dátum začiatku a konca uvedený v
+Objednávke. Odstúpenie od zmluvy musí byť uskutočnené písomnou formou na mail info@pracujucemamy.sk, musí obsahovať všetky údaje slúžiace k identifikácii kurzu.
 
 ## 7. ZÁVEREČNÉ USTANOVENIA
 
