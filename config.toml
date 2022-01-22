@@ -7,6 +7,13 @@ canonifyURLs = true
 
 googleAnalytics = "UA-170151834-1"
 
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+
 [markup.goldmark.renderer]
   unsafe = true
 
