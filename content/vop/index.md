@@ -87,6 +87,9 @@ produktu a Zmluvy.
 6.2. V prípade, že Klientovi je poskytovaná služba dlhodobého charakteru a Klient nebude spokojný s kvalitou, môže sa do oficiálneho skončenia kurzu uvedeného na Objednávke Poskytovateľa dohodnúť s Poskytovateľom na odstúpení od Zmluvy a vrátení zaplatenej ceny služby, ak sú splnené nasledovné podmienky: klient absolvuje celý kurz, vrátane praktických cvičení a vyplní formulár spätnej väzby, z ktorého vyplynie, že kurz u neho nesplnil svoj účel.
 Za službu dlhodobého charakteru sa považuje kurz v trvaní najmenej 90 dní, ktorá ma fixný dátum začiatku a konca uvedený v Objednávke. Odstúpenie od zmluvy musí byť uskutočnené písomnou formou na mail info@pracujucemamy.sk, musí obsahovať všetky údaje slúžiace k identifikácii kurzu.
 
+6.3. V prípade služby dlhodobého charakteru sa Klient zaväzuje uhradiť plnú sumu do 14 dní od podania Objednávky, pokiaľ sa s Poskytovateľom nedohodnú inak. Ak suma nebude do 14 dní uhradená, Poskytovateľ si vyhradzuje právo stornovať objednávku. Právo stornovať objednávku si vyhradzuje Poskytovateľ počas celého trvania dlhodobého podujania. V takýchto prípadoch vráti Klientovi plnú sumu uvedenú v Objednávke na účet.
+
+
 ## 7. ZÁVEREČNÉ USTANOVENIA
 
 7.1. Poskytovateľ si vyhradzuje právo zmeny ceny. Pri zmene ceny Poskytovateľ kontaktuje Klienta. Klient má právo pri
