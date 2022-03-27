@@ -25,8 +25,8 @@ Potom sa stali 2 veci, ktoré ma presvedčili o tom, že by to nebolo dobré biz
 
 **1. Vyvrátila som (svoju vlastnú) hypotézu, že argument diverzitou motivuje middle manažment k zmene návykov pri ich “mamičkách”.**
 
-*Ak školenia pre manažment, tak som za to, aby sa čo najjasnejšie možne komunikovali biznisové straty pri neefektívnom manažmente materských.* Koľko 
-času a nervov ušetria, keď budú na meetingoch riešiť ciele a stratégie a nie hasiť hiringové problémy so zamestnankyniami vracajúcimi sa z materskej? 
+*Ak školenia pre manažment, tak som za to, aby sa čo najjasnejšie možne komunikovali biznisové straty pri neefektívnom manažmente materských.* 
+Koľko času a nervov ušetria, keď budú na meetingoch riešiť ciele a stratégie a nie hasiť hiringové problémy so zamestnankyniami vracajúcimi sa z materskej? 
 Koľko ping-pongovania s HR by si mohli ušetriť? A koľko takto ušetrí firma samotná?
 Samozrejme, je to len empirické pozorovanie, takže sa teším na dišputu, ak máte inú skúsenosť.
 
