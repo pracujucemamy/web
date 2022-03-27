@@ -7,7 +7,8 @@ date= 2022-03-28T07:00:00Z
 
 +++
 
-Trošku provokácia, viem. Teda verím. Lebo tak sa posúvame vpred.
+Trošku provokácia, viem. 
+Teda verím. Lebo tak sa posúvame vpred.
 Keď ma osloví firemný klient alebo sa ocitnem v panelovej diskusii, vo väčšine prípadov sa dostaneme ku konceptu diverzity a inklúzie. 
 <!--more-->
 Mnohé firmy uvedomujúc si silu diverzných tímov (áno, sú na to [štúdie](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters)) investujú stále viac peňazí do D&I aktivít v snahe naozaj zlepšiť svoje 
