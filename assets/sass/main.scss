@@ -13,6 +13,7 @@ $border-radius-lg: 2rem;
 
 @import "./bootstrap/scss/bootstrap";
 
+
 html {
   font-size: 12px;
 }
@@ -267,3 +268,8 @@ strong {
   line-height: 27px;
   transform:rotate(-45deg);
 }
+
+.cc-nb-okagree, .cc-nb-reject, .cc-cp-foot-save {
+  background-color: $secondary !important;
+}
+
