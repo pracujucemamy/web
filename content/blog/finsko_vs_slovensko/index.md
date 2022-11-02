@@ -1,11 +1,12 @@
-++
++++
 
 author= "Terézia Miháliková"
 title= "V čom je fínska rodinná politika iná ako slovenská?"
-slug= "finsko vs slovensko"
+slug= "finsko-vs-slovensko"
 date= 2022-11-02T07:00:00Z
 
 +++
+
 Možno ste už zachytili, že od 1. augusta prišlo Fínsko so zmenou v [rodinnej politike](https://stm.fi/-/hallituksen-esityksen-luonnos-perhevapaauudistuksesta-valmistunut?languageId=en_US). 
 Cieľom je zjednodušiť skĺbenie rodiny a kariéry a zároveň podporiť vyvážené rozdelenie rodičovských zodpovednosti. Čo je nové?
 
