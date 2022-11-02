@@ -85,9 +85,7 @@ Práve teraz by mamám najviac pomohlo:
 
 - Flexibilné pracovné príležitosti a vytváranie takých miest, aby boli vhodné aj pre mamy s deťmi. Nie preto, aby zamestnávatelia robili mamám 
 charitu, ale preto, že sa im to oplatí. Viac o týchto riešeniach píšeme [tu](https://www.pracujucemamy.sk/blog/job-sharing-alebo-zdielanie-pracovneho-miesta/) a [tu](https://www.pracujucemamy.sk/blog/returnship/).
-- Zmena mindsetu v spoločnosti - toto vieme ovplyvniť my všetci. Podporujme ženy v našom okolí, ktoré sa chcú vrátiť skôr do práce. Menej 
-- odsudzujme a hodnoťme tie kolegyne, ktoré odchádzajú skôr z práce, lebo utekajú po dieťa do škôlky. Nevidíme celý obraz. Otvárajme túto 
-- tému a diskutujme v súkromí aj verejne. Hľadajme možnosti, ako prispieť k spoločenskej zmene. 
+- Zmena mindsetu v spoločnosti - toto vieme ovplyvniť my všetci. Podporujme ženy v našom okolí, ktoré sa chcú vrátiť skôr do práce. Menej odsudzujme a hodnoťme tie kolegyne, ktoré odchádzajú skôr z práce, lebo utekajú po dieťa do škôlky. Nevidíme celý obraz. Otvárajme túto tému a diskutujme v súkromí aj verejne. Hľadajme možnosti, ako prispieť k spoločenskej zmene. 
 - Dostatok miest v predškolských zariadeniach.
 
 Som si istá, že foriem pomoci je viac. Zaujíma ma, ako túto tému vnímate vy. Čo by podľa vás najviac pomohlo ženám pri návrate do práce?
