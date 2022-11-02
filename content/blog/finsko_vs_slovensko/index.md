@@ -37,9 +37,13 @@ Tak prečo potom vzbudzuje táto zmena vo fínskej rodinnej politike takú eufó
 Keďže sa téme návratu žien do práce venujem už nejaký piatok, vnímam, že táto téma má 2 základné roviny:
 
 **1. Legislatívna rovina**
+
+
 V rámci nej sa môžeme porovnávať s inými krajinami. Môžeme diskutovať, porovnávať výšku príspevkov, nároky jednotlivých aktérov a administratívnu či byrokratickú záťaž. Určite je čo vylepšovať. Keď však hovoríme o dobách vyplácania podpory, je férové si priznať, že možnosti, aby poberali materské obaja rodičia, sú aj u nás.
 
 **2. Mindset spoločnosti**
+
+
 A tu narazíme na tie najväčšie rozdiely. Vo Fínsku v tom majú jasno: rodičia sú si rovnocenní pri starostlivosti a mali by sa obaja podieľať 
 na výchove detí. Preto prišli s touto úpravou rodinnej politiky, a preto aj tá zmena názvu na všeobecné parental leave. U nás, naopak, ešte stále 
 vidíme pozostatky myslenia, že žena sa má starať o deti a muž zarábať peniaze. To neznamená, že tento model je zlý. Len neberie do úvahy, že 
