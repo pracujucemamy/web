@@ -29,6 +29,8 @@ poberať rodičovský príspevok do 3 rokoch veku dieťaťa.
 Vo Fínsku, ak sa po novom vystriedajú obaja rodičia, môžu pokryť starostlivosť o dieťa po dobu 14 mesiacov (vrátane 40 dní “tehotenského” -  pregnancy 
 allowance). Podpora je priznaná na 6 dní v rámci týždňa. To znamená, že jeden deň v týždni nemá “preplatený”.
 
+{{< image src="slovensko_finsko_tatabulka.png" >}}
+
 Keď to vidíme takto napísané, veľký rozdiel v  trvaní podpory tam nie je. 
 Tak prečo potom vzbudzuje táto zmena vo fínskej rodinnej politike takú eufóriu a nadšenie?
 
@@ -58,6 +60,8 @@ Namiesto toho, aby sme sa snažili plošne rozhodnúť, čo je pre ženy najlep�
 ženy, ktoré sa chcú vrátiť, mali na to podmienky. Realita je totiž taká, že už aj po 3 rokoch materskej je veľká výzva umiestniť 
 dieťa v škôlke, či nájsť si prácu, ktorá by umožňovala zladiť rodinný a pracovný život. Vo výsledkutie ženy, ktoré by sa aj chceli vrátiť 
 skôr do práce, zostávajú doma.
+
+{{< image src="slovensko_finsko_skolky.png" >}}
 
 A tu sa dostávame k ďalšej rovine a to je pripravenosť pracovného trhu na flexibilné pracovné podmienky. Tu platí už spomínaná veta: ak 
 chceme, aby sa ženy čo najskôr zamestnali, musia mať na to vytvorené podmienky. Trojročná rodičovská dovolenka u nás spôsobila aj to, že flexibilita 
