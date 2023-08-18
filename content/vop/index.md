@@ -46,10 +46,7 @@ osobe.
 oznámi Klientovi akceptáciu, alebo neakceptáciu Objednávky, možnú dodaciu dobu služby, alebo termín jej odberu, konečnú
 cenu a spôsob úhrady. Od tohto termínu je objednávka pre Klienta záväzná.
 
-2.4. Klient má právo stornovať Objednávku bez poplatku do 24 hodín od objednania služby bez udania dôvodu. Potvrdenie
-stornovania oznámi Poskytovateľ Klientovi písomnou formou prostredníctvom e-mailu na info@pracujucemamy.sk.
-
-2.5. Podmienkou platnosti elektronickej objednávky je jej pravdivé a úplné vyplnenie. Odoslaná objednávka je návrhom
+2.4. Podmienkou platnosti elektronickej objednávky je jej pravdivé a úplné vyplnenie. Odoslaná objednávka je návrhom
 kúpnej zmluvy. Kúpna zmluva vzniká potvrdením Objednávky Poskytovateľom prostredníctvom e-mailu.
 
 Odoslaním elektronickej Objednávky Klient záväzne potvrdzuje, že sa oboznámil s týmito obchodnými podmienkami, a že s
@@ -79,15 +76,11 @@ dohodnutým pri potvrdení objednávky – uzavretí zmluvy.
 
 ## 6. ODSTÚPENIE OD ZMLUVY
 
-6.1. V prípade, že je uzavretá Zmluva, ktoré budú Klientovi poskytnuté v budúcnosti, Klient je oprávnený bez uvedenia
-dôvodu odstúpiť od zmluvy do 14 pracovných dní odo dňa uzavretia Zmluvy. Odstúpenie od zmluvy musí byť uskutočnené
-písomnou formou na mail info@pracujucemamy.sk, musí obsahovať všetky údaje slúžiace k identifikácii služby alebo online
-produktu a Zmluvy.
+6.1. Klient má právo stornovať Objednávku, resp. odstúpiť od Zmluvy bez udania dôvodu v lehote do 14 dní odo dňa uzatvorenia Zmluvy. Odstúpenie od zmluvy musí byť uskutočnené písomnou formou na mail info@pracujucemamy.sk, musí obsahovať všetky údaje slúžiace k identifikácii služby alebo online produktu a Zmluvy.
 
-6.2. V prípade, že Klientovi je poskytovaná služba dlhodobého charakteru a Klient nebude spokojný s kvalitou, môže sa do oficiálneho skončenia kurzu uvedeného na Objednávke Poskytovateľa dohodnúť s Poskytovateľom na odstúpení od Zmluvy a vrátení zaplatenej ceny služby, ak sú splnené nasledovné podmienky: klient absolvuje celý kurz, vrátane praktických cvičení a vyplní formulár spätnej väzby, z ktorého vyplynie, že kurz u neho nesplnil svoj účel.
-Za službu dlhodobého charakteru sa považuje kurz v trvaní najmenej 90 dní, ktorá ma fixný dátum začiatku a konca uvedený v Objednávke. Odstúpenie od zmluvy musí byť uskutočnené písomnou formou na mail info@pracujucemamy.sk, musí obsahovať všetky údaje slúžiace k identifikácii kurzu.
+6.2. V prípade, že Klientovi je poskytovaná služba dlhodobého charakteru (napríklad kurz) a Klient nebude spokojný s kvalitou, môže sa do 3 dní (vrátane) od oficiálneho skončenia služby uvedeného na Objednávke Poskytovateľa dohodnúť s Poskytovateľom na odstúpení od Zmluvy a vrátení zaplatenej ceny služby, ak sú splnené nasledovné podmienky: Klient absolvuje celý kurz, vrátane praktických cvičení a vyplní formulár spätnej väzby, z ktorého vyplynie, že kurz u neho nesplnil svoj účel. Za službu dlhodobého charakteru sa považuje kurz v trvaní najmenej 90 dní, ktorý ma fixný dátum začiatku a konca uvedený v Objednávke. Odstúpenie od zmluvy musí byť uskutočnené písomnou formou na mail info@pracujucemamy.sk, musí obsahovať všetky údaje slúžiace k identifikácii kurzu.
 
-6.3. V prípade služby dlhodobého charakteru sa Klient zaväzuje uhradiť plnú sumu do 14 dní od podania Objednávky, pokiaľ sa s Poskytovateľom nedohodnú inak. Ak suma nebude do 14 dní uhradená, Poskytovateľ si vyhradzuje právo stornovať objednávku. Právo stornovať objednávku si vyhradzuje Poskytovateľ počas celého trvania dlhodobého podujania. V takýchto prípadoch vráti Klientovi plnú sumu uvedenú v Objednávke na účet.
+6.3. V prípade služby dlhodobého charakteru sa Klient zaväzuje uhradiť plnú sumu za túto službu do 14 dní od potvrdenia Objednávky emailom, pokiaľ sa s Poskytovateľom nedohodnú inak. Ak suma nebude do 14 dní pripísaná na účet, ktorý bude uvedený v emaile potvrdzujúcom objednávku, Poskytovateľ si vyhradzuje právo stornovať objednávku. Právo stornovať objednávku si vyhradzuje Poskytovateľ počas celého trvania dlhodobého podujatia. V takýchto prípadoch vráti Klientovi plnú sumu uvedenú v Objednávke na účet.
 
 
 ## 7. ZÁVEREČNÉ USTANOVENIA
@@ -123,8 +116,7 @@ súhlas Poskytovateľovi služieb so spracovaním, zhromažďovaním a uchováva
 kúpnej zmluvy, vybavenia objednávok a súvisiacej komunikácie s Klientom. Klient má právo na prístup k svojim osobným
 údajom, právo na ich opravu, vrátane ďalších zákonných práv k týmto údajom.
 
-7.8 V nevyhnutnej miere budú osobné údaje poskytnuté dodávateľovi účtovných a poradenských služieb. Poskytovateľ
-neposkytuje, nezverejňuje a nesprístupňuje osobné údaje Klientov žiadnej ďalšej osobe.
+7.8 V nevyhnutnej miere budú osobné údaje poskytnuté dodávateľovi účtovných a poradenských služieb. V prípade služby dlhodobého charakteru (kurz) budú osobné údaje poskytnuté aj členom tímu, ktorí sa podieľajú na vedení alebo administrácii kurzu. Poskytovateľ neposkytuje, nezverejňuje a nesprístupňuje osobné údaje Klientov žiadnej ďalšej osobe.
 
 7.9. Súhlas so spracovaním osobných údajov a zasielaním obchodných informácií je udelený na dobu neurčitú a je možné ho
 kedykoľvek zdarma odvolať výslovným a určitým prejavom v písomnej forme adresovanej Poskytovateľovi, a to poštou,
